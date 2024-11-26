@@ -16,12 +16,13 @@ The main purpose of Hack 19 is to solve business problems around project data an
 
 ## List of Challenges
 1.  Schedule Summarisation
-2.  a)  Insights from third-line assurance
+2.  Project Assurance
+    a)  Insights from third-line assurance
     b)  Anticipating assurance challenges and lessons in major projects
     c)  Dynamic assurance review
-3.  Mitigation Mastery: Decoding the dynamics of risk reduction
-4.  Demand Scenario Modelling
-5.  Clerk of Works Reporting
+4.  Mitigation Mastery: Decoding the dynamics of risk reduction
+5.  Demand Scenario Modelling
+6.  Clerk of Works Reporting
 
 ## Support
 
