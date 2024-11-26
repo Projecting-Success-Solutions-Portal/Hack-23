@@ -1,4 +1,4 @@
-# Challenge #1
+# Challenge #3
 
 **Mitigation Mastery: Decoding the dynamics of risk reduction**
 
