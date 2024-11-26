@@ -19,6 +19,6 @@ The main purpose of Hack 19 is to solve business problems around project data an
 
 ## Support
 
-For support, [email] (solutionsportal@projectingsuccess.co.uk)
+For support, [email](solutionsportal@projectingsuccess.co.uk)
 
-If you are interested in the Project Data Analytics Level 4 Apprenticeship visit [our website] (https://projectingsuccess.co.uk/training-development/)
+If you are interested in the Project Data Analytics Level 4 Apprenticeship visit [our website](https://projectingsuccess.co.uk/training-development/)
