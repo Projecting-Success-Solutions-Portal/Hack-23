@@ -16,7 +16,7 @@ The main purpose of Hack 19 is to solve business problems around project data an
 
 ## List of Challenges
 1.  Schedule Summarisation
-2.  Project Assurance
+2.  Project Assurance:
     a)  Insights from third-line assurance
     b)  Anticipating assurance challenges and lessons in major projects
     c)  Dynamic assurance review
