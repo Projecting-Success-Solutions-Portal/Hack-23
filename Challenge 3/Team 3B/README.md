@@ -1,17 +1,17 @@
 # Team 3B - Risky Business
 
 **Team Members**   
-Owen Waller, Loughborough University  
-Matt Norfolk, MOD  
-Chris Jenkins, MOJ  
-Ken Burrell, The PMO Professionals  
+David Cox - Thales  
+Paul Harwood - Thales  
+Alex Mitchell - Thales  
+Ben Lythgoe - Thales  
+Rowan Farmer - Thales  
+Alice Morgan - Thales  
 
 **Solution Description**  
-Feed PDFs into Copilot to identify themes and score qualitative data
-Spot-check Copilot's assessment for veracity and hallucinations
-Data to be written to XLS doc
-Feed data to Power BI for visualisation
-Classify lessons, cause and precursors by applying standard categories
+*Simplified Risk Management* Transform complex risk data into clear, actionable insights with an intutitative interface  
+*Real-Time Updates* Stay ahead of risks with instant access to the latest data and automated risk summaries  
+*Customizable Dashboards* Tailor your views for executives, project managers, or teams with easy-to-use filteres and detailed analytics  
 
 
 ![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%203/Team%203B/Team%203B%20screengrab.png)
