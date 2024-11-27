@@ -1,4 +1,4 @@
-# Team 3B - Team Supreme
+# Team 3C - Team Supreme
 
 **Team Members**   
 Keval Pandya - Vercity  
