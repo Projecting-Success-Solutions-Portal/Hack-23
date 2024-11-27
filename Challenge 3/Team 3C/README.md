@@ -15,6 +15,7 @@ Dashboard created to present data
 Effectiveness of mitigations asssessed  
 Summary and recommendations  
 
+**Solution Image**
 ![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%203/Team%203C/Team%203C%20screengrab.png)
 
 
