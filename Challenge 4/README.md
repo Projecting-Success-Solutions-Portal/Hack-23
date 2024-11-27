@@ -14,14 +14,14 @@ When summarising demand scenarios, it's essential to tailor the level of detail 
 forecast confidence and ensure that scenarios can be easily adjusted for dynamic "what if"
 analysis
 
-**Pain Points​**
+**Pain Points​**  
 ·I want to create clear, visual summaries of demand scenarios quickly.  
 · I want to see cost forecasts and hours while considering factors such as commodity/vendor,
 contract, control account, and capacity.  
 · I need to summarise forecasted outcomes and adjust demand scenarios easily to identify
 improvement opportunities.  
 
-**Personas​**
+**Personas​**  
 As a Head of Planning, I want to quickly understand changes in demand within my business
 area, so that I can identify risks and constraints.
 As a Head of Planning, I want to comprehend future requirements and spending across a
@@ -29,7 +29,7 @@ product portfolio, so that I can engage in informed discussions with my supply c
 As a Head of Planning, I want to create diverse demand scenarios efficiently, so that I can
 make data-driven decisions
 
-**Business Context​**
+**Business Context​**  
 Effective demand scenario modelling is crucial for the business, helping optimise cost
 forecasts, adjust capacity, mitigate risks, and make informed decisions. Demand forecasts
 guide supply chain negotiations, load and capacity planning, and infrastructure
@@ -53,7 +53,7 @@ Teams should ensure that the user always has the right information regarding con
 assumptions. What data can you use to inform your forecast, and how does this effect accuracy and
 reliability?  
 
-**Dataset Description**​
+**Dataset Description**  ​
 Teams will be provided with an example “Footprint” for a demand scenario in Excel as loaded
 into SAP (in its current state, we will take recommendations if changes would support a new
 solution).  
@@ -62,7 +62,7 @@ should consider what data is needed to create demand scenarios and how that data
 sourced and utilised.  
 Teams will need to generate their own data to visualise and test their solution.  
 
-**Success Criteria​**
+**Success Criteria​**  
 Teams will develop a demand scenario modelling tool that can:
 1. Generate summary reports and visualisations on-demand.
 2. Allow users to update assumptions, load new data, and edit scenarios quickly and easily.
@@ -76,8 +76,7 @@ constraints.
 An additional feature could include optimisation capabilities that suggest improved demand
 scenarios for better efficiency.
 
-
-**Benefits​**
+**Benefits​**  
 This solution will streamline demand scenario modelling, allowing Heads of Planning to make
 better-informed decisions. It will reduce the time needed for high-level analysis, enabling
 more focus on validation, optimisation, and strategic discussions with suppliers.
