@@ -13,7 +13,7 @@ Alice Morgan - Thales
 *Real-Time Updates* Stay ahead of risks with instant access to the latest data and automated risk summaries  
 *Customizable Dashboards* Tailor your views for executives, project managers, or teams with easy-to-use filteres and detailed analytics  
 
-
+**Solution Image**
 ![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%203/Team%203B/Team%203B%20screengrab.png)
 
 
