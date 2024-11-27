@@ -9,12 +9,11 @@ Olu Ogunbambi-Alao - EDF
 Kyran Ford - Rolls Royce  
 
 **Solution Description**  
-Data Health Metrics assessed
-Data Cleansing/Enrichment performed
-Dashboard created to present data
-Effectiveness of mitigations asssessed
-Summary and recommendations
-
+Data Health Metrics assessed  
+Data Cleansing/Enrichment performed  
+Dashboard created to present data  
+Effectiveness of mitigations asssessed  
+Summary and recommendations  
 
 ![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%203/Team%203B/Team%203B%20screengrab.png)
 
