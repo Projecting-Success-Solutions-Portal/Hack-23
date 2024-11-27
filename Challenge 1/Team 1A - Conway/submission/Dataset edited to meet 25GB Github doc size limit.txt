@@ -1,0 +1,4 @@
+Original Conway dataset exceeded 25MB limit for github docs.
+
+Number of rows in the original dataset is 72,911  (57.8MB)
+Number of rows in the reduced dataset uploaded here is 14,000 (24.7MB)

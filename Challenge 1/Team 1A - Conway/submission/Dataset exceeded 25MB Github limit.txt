@@ -1,1 +1,0 @@
-Conway dataset exceeded 25MB limit for github docs
