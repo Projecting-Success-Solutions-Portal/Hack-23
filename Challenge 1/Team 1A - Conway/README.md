@@ -13,7 +13,7 @@ Peter Tandlich, GSK
 2. Used P6 data to produce a richer dataset and then moved this data into Excel with monthly snapshots
 3. Ingested Excel data into Power BI for visualisations
 
-
+**Solution Image**  
 ![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%201/Team%201A%20-%20Conway/Team%201A%20screengrab.png?raw=true)
 
 
