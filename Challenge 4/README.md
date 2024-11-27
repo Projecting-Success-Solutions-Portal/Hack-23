@@ -2,7 +2,7 @@
 
 **Demand Scenario Modelling**
 
-**Summary**
+**Summary**  
 Heads of Planning need an efficient way to assess the impact of changes in demand on key
 business metrics. This helps them:
 1. Develop and validate strategies that optimise delivery and cost.
