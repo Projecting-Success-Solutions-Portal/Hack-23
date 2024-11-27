@@ -1,0 +1,4861 @@
+Synergy with the framework contract should deliver saving
+Customer offered T&Cs not favourable to our
+Interface cannot be fully proven until installation
+Software Issues
+Legacy System Issues
+System INtegration Resources
+Contract Extension
+Mech Counters
+Environment Conditions
+Industry Learner hours - new staff over an elongated period
+Component/unit failure due to extended storage period 
+Customer Furnished Equipment Failures
+Supplier Component Unavailability 
+Availability of Sunject Matter Experts for Installation
+Additional Installation 
+Design Flaw causing degradation of Power Systems
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+COVID impacts production
+Live system changes allows provision for EAC challenge
+Cable reliability improvement not ready for follow on units
+Critical Resource leave the project
+Materials failure/shortages
+No Additional material available due to attrition
+Production Test equipment fails
+Additional tests for final units
+Generic Labour Risk Provision
+Obsolescence Monitoring Risk
+Supplier Warranty
+Loss of Key knowledge
+Increase in Operating Hours (Opportunity)
+Increase in an in country support required
+Effectiveness of user training resources
+Providing Datapacks (1)
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Providing Datapacks (2)
+VOP Under- Recovery
+More Outstanding ECs and PRs than expected
+Additional Component required
+Recovery
+Customer Marching Customer Cost Recovery
+Programme extension
+Critical or Safety PR arises in Final build ()/Decision Point concludes new release required
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Software Issues
+Environment Conditions
+Acceptance - Issues arise
+Poor performance during acceptance phases
+Customer dependencies on completing contract
+Provision for future emerging risks
+Setting to work Issues  -  monitor may require changing
+Setting to work and acceptance issues
+Bank Guarantees
+Test & Acceptance
+Service charge for the Programme rigs under the support contract
+Service charge for the Training rig under the Training ISS
+Training System gained efficiency - Planning Package
+Engineering Competitiveness
+Resources/Skills
+Additional release not required
+Agreement on Interface
+IPR owner for the solution
+Migration to RedHat 7
+Delays to Software Validation & Development
+Network Migration
+Ping Cycle Over-run Issues
+INterface Card
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Project Management WP for extended accreditation
+On Board Trainer
+Verification Data - Systems Integration [Build to Print data]
+Additional Obsolescence - System
+Integration and Reliability
+Test Assets (for system integration - repair of test assets)
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Driver update
+Exchange Rate
+cost savings
+Customer Furnished Equipment reliability
+Customer Furnished Equipment reliability
+Driver update
+cost savings
+Audio Performance inadequate
+Deployed Performance inadequate
+Product Team support for dependent projects
+Facility performance unacceptable during Scenario testing
+Facility performance during Live trials
+Data Throttling Algorithm
+Sub-System Performance against Bid Scenario
+Face-to-Face Arbitration
+Test area Site Availability
+Delay to integration
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Resource issue in card to provide real time data due to adding 2nd interface 
+Component shock failure
+Product Baseline delivery is late
+Audio Performance inadequate
+Deployed Performance inadequate
+Facility performance unacceptable during Scenario testing
+Facility performance during Live trials
+Data Throttling Algorithm
+Sub-System Performance against Bid Scenario
+Face-to-Face Arbitration
+Test area Site Availability
+Synergy with the framework contract should deliver saving
+Customer offered T&Cs not favourable to our
+Component/unit failure due to extended storage period 
+Cable reliability improvement not ready for follow on units
+Live system changes allows provision for EAC challenge
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Driver update
+Exchange Rate
+cost savings
+Customer Furnished Equipment reliability
+Customer Furnished Equipment reliability
+Driver update
+cost savings
+Additional Component required
+Recovery
+Customer Marching Customer Cost Recovery
+Programme extension
+Critical or Safety PR arises in Final build ()/Decision Point concludes new release required
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+More Outstanding ECs and PRs than expected
+Increase in Operating Hours (Opportunity)
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Service charge for the Programme rigs under the support contract
+Service charge for the Training rig under the Training ISS
+Training System gained efficiency - Planning Package
+Engineering Competitiveness
+Resources/Skills
+Software Issues
+Environment Conditions
+Acceptance - Issues arise
+Poor performance during acceptance phases
+Customer dependencies on completing contract
+Provision for future emerging risks
+Setting to work Issues  -  monitor may require changing
+Setting to work and acceptance issues
+Bank Guarantees
+Verification Data - Systems Integration [Build to Print data]
+Additional Obsolescence - System
+Integration and Reliability
+Test Assets (for system integration - repair of test assets)
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+INterface Card
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Project Management WP for extended accreditation
+On Board Trainer
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Generic Labour Risk Provision
+Test & Acceptance
+Change of Supplier Component (our NRE)
+Change of Component material
+Re-imaging of PC's - additional material
+Reduce touch labour if get-well programme successful
+Go to Offshore initiative
+Reduction of Programme Manager hours  by full transfer of product into Industry
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Component Repair costs
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Liquidated Damages
+Transport/Delivery Speed
+Customer Furnished Equipment reliability
+Driver update
+cost savings
+Delay to integration
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Resource issue in card to provide real time data due to adding 2nd interface 
+Component shock failure
+Product Baseline delivery is late
+Driver update
+Exchange Rate
+cost savings
+Customer Furnished Equipment reliability
+Safety team extension to cover final year activities
+Engineering team extension to cover final year activities
+STTE additional work
+Software platform (OS/Drivers/Libraries)
+Acceptance Technical Debt
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Product Baseline delivery is late
+BIT Updates
+Component/unit failure due to extended storage period 
+Component Repair & test costs
+Export License
+Generic Labour Risk Provision
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Re-imaging of PC's - additional material
+Go to Offshore initiative
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Customer Marching Customer Cost Recovery
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build ()/Decision Point concludes new release required
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Liquidated Damages
+Transport/Delivery Speed
+Software Issues
+Acceptance - Issues arise
+Poor performance during acceptance phases
+Customer dependencies on completing contract
+Provision for future emerging risks
+Setting to work Issues  -  monitor may require changing
+Setting to work and acceptance issues
+Bank Guarantees
+Test & Acceptance
+More Outstanding ECs and PRs than expected
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Increase in Operating Hours (Opportunity)
+Verification Data - Systems Integration [Build to Print data]
+Additional Obsolescence - System
+Integration and Reliability
+Test Assets (for system integration - repair of test assets)
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Safety team extension to cover final year activities
+Service charge for the Programme rigs under the support contract
+Service charge for the Training rig under the Training ISS
+Training System gained efficiency - Planning Package
+Engineering Competitiveness
+Resources/Skills
+Engineering team extension to cover final year activities
+STTE additional work
+Acceptance Technical Debt
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+INterface Card
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Project Management WP for extended accreditation
+On Board Trainer
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Audio Performance inadequate
+Deployed Performance inadequate
+Facility performance unacceptable during Scenario testing
+Facility performance during Live trials
+Data Throttling Algorithm
+Sub-System Performance against Bid Scenario
+Face-to-Face Arbitration
+Test area Site Availability
+Recovering sunk cost due to Supply Chain
+Baseline Rationalisation
+System Cable
+Customer Furnished Equipment reliability
+Driver update
+cost savings
+Driver update
+Exchange Rate
+cost savings
+Customer Furnished Equipment reliability
+ delay due to delay to release of build standard for 
+Opportunity to accelerate Component Approval through closer working efficiencies
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Opportunity to accelerate Component Approval through closer working efficiencies
+ delay due to build standard issue
+ delay due to lack of Sys Eng availability
+ delay due to weather
+ delay due to system serviceability
+ delay due to build standard issue
+Trials delay due to lack of personnel
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+ Trials delay due to the performance of the system in environmental conditions
+Renewal of Annual Licenses
+Scope Increase 
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Operating systems haven't had security patches
+COTs SW License
+Gaps in SSS Flowdown in SW
+Port SW  to supportable Runtime environment
+Synergy with the framework contract should deliver saving
+Customer offered T&Cs not favourable to our
+Liquidated Damages
+Transport/Delivery Speed
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Component Repair & test costs
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Verification Data - Systems Integration [Build to Print data]
+Additional Obsolescence - System
+Integration and Reliability
+Test Assets (for system integration - repair of test assets)
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Safety team extension to cover final year activities
+Service charge for the Programme rigs under the support contract
+Service charge for the Training rig under the Training ISS
+Training System gained efficiency - Planning Package
+Engineering Competitiveness
+Resources/Skills
+Scope Increase 
+Engineering team extension to cover final year activities
+STTE additional work
+Acceptance Technical Debt
+Renewal of Annual Licenses
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Operating systems haven't had security patches
+COTs SW License
+Gaps in SSS Flowdown in SW
+Port SW  to supportable Runtime environment
+Generic Labour Risk Provision
+Re-imaging of PC's - additional material
+Go to Offshore initiative
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Software Issues
+Acceptance - Issues arise
+Poor performance during acceptance phases
+Customer dependencies on completing contract
+Provision for future emerging risks
+Setting to work Issues  -  monitor may require changing
+Setting to work and acceptance issues
+Bank Guarantees
+More Outstanding ECs and PRs than expected
+Recovering sunk cost due to Supply Chain
+System Cable
+Product Baseline delivery is late
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+INterface Card
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Project Management WP for extended accreditation
+On Board Trainer
+Test & Acceptance
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+BIT Updates
+Audio Performance inadequate
+Deployed Performance inadequate
+Facility performance during Live trials
+Data Throttling Algorithm
+Face-to-Face Arbitration
+Test area Site Availability
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Power supply Test Environment
+Liquidated Damages maybe reduced
+Customer Furnished Equipment reliability
+Driver update
+cost savings
+Driver update
+Exchange Rate
+cost savings
+Customer Furnished Equipment reliability
+Increase in Operating Hours (Opportunity)
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Platform Acceptance needs re-running
+Extended programme
+Platform Acceptance extends
+Customer Marching Customer Cost Recovery
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build ()/Decision Point concludes new release required
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+ delay due to delay to release of build standard for 
+Opportunity to accelerate Component Approval through closer working efficiencies
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Opportunity to accelerate Component Approval through closer working efficiencies
+ delay due to build standard issue
+ delay due to lack of Sys Eng availability
+ delay due to weather
+ delay due to system serviceability
+ delay due to build standard issue
+Trials delay due to lack of personnel
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+ Trials delay due to the performance of the system in environmental conditions
+Synergy with the framework contract should deliver saving
+Customer offered T&Cs not favourable to our
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Agreement on Interface
+IPR owner for the solution
+Indications associated with each agreed fault have been misunderstood
+Ping Cycle Over-run Issues
+Programme Extended during Development - Increase in level of effort resources
+INterface Card
+Programme extends beyond 50% SRA date
+Obsolescence and missing info
+Critical or Safety PR arises in Final build ()/Decision Point concludes new release required
+Technical Acceptance proves to be more difficult than anticipated
+Cable and connectors
+Refurbishment of equipment loaned for Testing or Trials.
+Platform Acceptance
+On Board Trainer
+ delay due to delay to release of build standard for 
+Opportunity to accelerate Component Approval through closer working efficiencies
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Opportunity to accelerate Component Approval through closer working efficiencies
+ delay due to build standard issue
+Trials delay due to lack of personnel
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+ Trials delay due to the performance of the system in environmental conditions
+Customer Marching Customer Cost Recovery
+Recovering sunk cost due to Supply Chain
+System Cable
+Product Baseline delivery is late
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Verification Data - Systems Integration [Build to Print data]
+Additional Obsolescence - System
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Liquidated Damages
+Transport/Delivery Speed
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Component Repair & test costs
+Re-imaging of PC's - additional material
+Go to Offshore initiative
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Software Issues
+Acceptance - Issues arise
+Poor performance during acceptance phases
+Customer dependencies on completing contract
+Provision for future emerging risks
+Test & Acceptance
+Setting to work Issues  -  monitor may require changing
+Setting to work and acceptance issues
+Bank Guarantees
+Platform Acceptance needs re-running
+Extended programme
+Platform Acceptance extends
+More Outstanding ECs and PRs than expected
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Power supply Test Environment
+Liquidated Damages maybe reduced
+Generic Labour Risk Provision
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Deployed Performance inadequate
+Facility performance during Live trials
+Data Throttling Algorithm
+Face-to-Face Arbitration
+Test area Site Availability
+Audio Performance inadequate
+Component Repair & test costs
+Increase in Operating Hours (Opportunity)
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Synergy with the framework contract should deliver saving
+Customer offered T&Cs not favourable to our
+Deployed Performance inadequate
+Facility performance during Live trials
+Data Throttling Algorithm
+Face-to-Face Arbitration
+Test area Site Availability
+Audio Performance inadequate
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Export License
+Re-imaging of PC's - additional material
+Go to Offshore initiative
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Indications associated with each agreed fault have been misunderstood
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Programme Extended during Development - Increase in level of effort resources
+Recovering sunk cost due to Supply Chain
+System Cable
+Product Baseline delivery is late
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Opportunity to accelerate Component Approval through closer working efficiencies
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+More Outstanding ECs and PRs than expected
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Power supply Test Environment
+Liquidated Damages maybe reduced
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Liquidated Damages
+Transport/Delivery Speed
+Generic Labour Risk Provision
+Software Issues
+Acceptance - Issues arise
+Poor performance during acceptance phases
+Customer dependencies on completing contract
+Provision for future emerging risks
+Setting to work Issues  -  monitor may require changing
+Bank Guarantees
+Platform Acceptance needs re-running
+Extended programme
+Platform Acceptance extends
+Test & Acceptance
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Deployed Performance inadequate
+Facility performance during Live trials
+Data Throttling Algorithm
+Face-to-Face Arbitration
+Test area Site Availability
+Audio Performance inadequate
+Component Repair & test costs
+On Board Trainer
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+INterface Card
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Safety team extension to cover final year activities
+Renewal of Annual Licenses
+Scope Increase 
+Engineering team extension to cover final year activities
+STTE additional work
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Training System gained efficiency - Planning Package
+Operating systems haven't had security patches
+Acceptance Technical Debt
+COTs SW License
+Engineering Competitiveness
+Gaps in SSS Flowdown in SW
+Port SW  to supportable Runtime environment
+Synergy with the framework contract should deliver saving
+Customer offered T&Cs not favourable to our
+Increase in Operating Hours (Opportunity)
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Re-imaging of PC's - additional material
+Go to Offshore initiative
+Export License
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+More Outstanding ECs and PRs than expected
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Power supply Test Environment
+Liquidated Damages maybe reduced
+Liquidated Damages
+Transport/Delivery Speed
+Customer dependencies on completing contract
+Test & Acceptance
+Provision for future emerging risks
+Bank Guarantees
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Safety team extension to cover final year activities
+Renewal of Annual Licenses
+Engineering team extension to cover final year activities
+STTE additional work
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Training System gained efficiency - Planning Package
+Operating systems haven't had security patches
+Acceptance Technical Debt
+Engineering Competitiveness
+Port SW  to supportable Runtime environment
+Generic Labour Risk Provision
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Recovering sunk cost due to Supply Chain
+System Cable
+Product Baseline delivery is late
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Deployed Performance inadequate
+Facility performance during Live trials
+Data Throttling Algorithm
+Face-to-Face Arbitration
+Test area Site Availability
+Audio Performance inadequate
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Opportunity to accelerate Component Approval through closer working efficiencies
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+Increase in Operating Hours (Opportunity)
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Opportunity to accelerate Component Approval through closer working efficiencies
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Liquidated Damages
+Transport/Delivery Speed
+Go to Offshore initiative
+Sharing Attrition Stock with Warranty Spares pool
+Risk of repeat component Tests
+Re-imaging of PC's - additional material
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+More Outstanding ECs and PRs than expected
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Power supply Test Environment
+Liquidated Damages maybe reduced
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Test & Acceptance
+Safety team extension to cover final year activities
+Renewal of Annual Licenses
+Engineering team extension to cover final year activities
+STTE additional work
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Training System gained efficiency - Planning Package
+Acceptance Technical Debt
+Engineering Competitiveness
+Port SW  to supportable Runtime environment
+Generic Labour Risk Provision
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Recovering sunk cost due to Supply Chain
+Data throughput of solution exceeds Customer budget
+System Cable
+Increase in Installation time in country
+Product Baseline delivery is late
+product not repairable in the Turn araound time
+product reliability
+Spares pool is limited
+Movements of equipment and the exporter of record
+Subcontractor compliance to the Quality Requirements
+Equipment Delivery
+Customer Cyber Solution
+Maturity of Mission System - Software components
+End-End Performance
+T&E - Additional Support / data is required
+Cyber Suitably Qualified and experienced staff availability
+Replacement of Gen-1 products by Gen-2 products
+Lack of usage history for engine may impact
+System Interfaces
+System Integration Delays
+Decrease in the cost of codification not realised
+Insufficient estimates
+Customer Documentation
+System Interfaces
+Customer Acceptance Operator Courses
+Supplier Tech Docs not adequate
+Technical Publications overspend
+Delivery of prime equipment - Customer
+Technical Publications overspend
+Training Programme capacity
+Inability/Lack of Resource  capability
+Decrease the cost of obsolescence sweeps
+Iinterim to full operational capability scope
+Solution needs to change to account for specific platform integration
+Technical Publications overspend
+Facilities Availability - Customer
+Technical Publications overspend
+Service Delivery Manager
+Service Desk
+Standard testing identifies issues
+Compliant Solution not meeting Customer expectations
+Customer - Increased Scope
+Support Required to Customer EMC Testing
+Additional Customer Repairs - Increased VAT Costs
+System fails to achieve required performance
+Non delivery of Customer documentation
+Milestone Delayed due to a number of factors
+Lack of Engine Data
+product not repairable in the Turn araound time
+product reliability
+Spares pool is limited
+Tricky repair (above the estimated cost)
+GPS failure
+Risk we can't take Sub-system from Trials
+Failure of a product pre delivery
+Movements of equipment and the exporter of record
+Subcontractor compliance to the Quality Requirements
+Equipment Delivery
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Increase in Operating Hours (Opportunity)
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Agreement on Interface
+IPR owner for the solution
+Ping Cycle Over-run Issues
+Obsolescence and missing info
+Cable and connectors
+Platform Acceptance
+Liquidated Damages
+Transport/Delivery Speed
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Re-imaging of PC's - additional material
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+Additional Sw Builds to resolve issues found during Integration
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Renewal of Annual Licenses
+STTE additional work
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Training System gained efficiency - Planning Package
+Acceptance Technical Debt
+Engineering Competitiveness
+Port SW  to supportable Runtime environment
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Generic Labour Risk Provision
+Test & Acceptance
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Power supply Test Environment
+Liquidated Damages maybe reduced
+More Outstanding ECs and PRs than expected
+Facility Maintenance Team Costs
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Customer not providing the information needed
+Increase in Operating Hours (Opportunity)
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Increase in Operating Hours (Opportunity)
+Agreement on Interface
+Ping Cycle Over-run Issues
+Obsolescence and missing info
+Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Integration
+Export License
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Re-imaging of PC's - additional material
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Project Contingency
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Programme extends beyond 50% SRA date
+Platform Availability
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Trial delay due to weather
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+Facility Maintenance Team Costs
+Customer dependencies on completing contract
+Test & Acceptance
+Provision for future emerging risks
+Bank Guarantees
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Liquidated Damages maybe reduced
+More Outstanding ECs and PRs than expected
+Generic Labour Risk Provision
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Liquidated Damages
+Transport/Delivery Speed
+Consoles - Supply to Schedule
+Additional Costs from Integration Cost Centre
+Potential Second Acceptance
+Renewal of Annual Licenses
+STTE additional work
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Training System gained efficiency - Planning Package
+Acceptance Technical Debt
+Engineering Competitiveness
+Port SW  to supportable Runtime environment
+Customer not providing the information needed
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+Facility Maintenance Team Costs
+Current operational needs and understanding
+System Rapid Prototyping
+product improvement - Extractor
+product Improvements - schema
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Re-imaging of PC's - additional material
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Renewal of Annual Licenses
+ Testing Extends beyond target  completion
+ Win 7 update to Win 10 OS
+Acceptance Technical Debt
+Port SW  to supportable Runtime environment
+Customer not providing the information needed
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Liquidated Damages
+Transport/Delivery Speed
+Test & Acceptance
+Potential Second Acceptance
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Liquidated Damages maybe reduced
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Dummy Risk For reporting
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Increase in Operating Hours (Opportunity)
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Trial delay due to weather
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Component Approval delay due to acceleration plan not working.
+Facility Maintenance Team Costs
+Problem Report Team
+Architecture rework if current performance is unacceptable
+Algorithms Acceptance
+Generic Labour Risk Provision
+Agreement on Interface
+Ping Cycle Over-run Issues
+Obsolescence and missing info
+Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Integration
+Consoles - Supply to Schedule
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Lack of usage history for engine may impact
+Delivery of prime equipment - Customer
+Training Programme capacity
+Customer - Increased Scope
+System fails to achieve required performance
+Equipment Delivery
+Project Contingency
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Agreement on Interface
+Ping Cycle Over-run Issues
+Obsolescence and missing info
+Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Integration
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Dummy Risk For reporting
+Obsolescence Monitoring Risk
+Supplier Warranty
+Tax/European Risk
+Short supplier validities due to uncertain market conditions
+Re-imaging of PC's - additional material/Labour effort
+Increase in Operating Hours (Opportunity)
+Problem Report Team
+Algorithms Acceptance
+Renewal of Annual Licenses
+ Testing Extends beyond target completion
+ Win 7 update to Win 10 OS
+Acceptance Technical Debt
+Customer not providing the information needed
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Liquidated Damages
+Transport/Delivery Speed
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Generic Labour Risk Provision
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Test & Acceptance
+Potential Second Acceptance
+Liquidated Damages maybe reduced
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Trial delay due to weather
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Facility Maintenance Team Costs
+ Customer Levy
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Customer Documentation
+Mission System Laptops
+Movements of equipment and the exporter of record
+Maturity of Mission System - Software components
+Decrease in the cost of codification not realised
+Customer Cyber Solution
+Facilities Availability - Customer
+T&E - Additional Support / data is required
+Technical Publications overspend
+Technical Publications overspend
+Technical Publications overspend
+Service Desk
+End-End Performance
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Standard testing identifies issues
+Failure of a product pre delivery
+System Interfaces
+Risk we can't take Sub-system from Trials
+product reliability
+product not repairable in the Turn araound time
+GPS failure
+Tricky repair (above the estimated cost)
+System Integration Delays
+Mode specific Trials
+Customer Acceptance Operator Courses
+Spares pool is limited
+Lack of Engine Data
+Support Required to Customer EMC Testing
+System Interfaces
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Re-imaging of PC's - additional material/Labour effort
+Increase in Operating Hours (Opportunity)
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Programme extends beyond 50% SRA date
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Trial delay due to weather
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Facility Maintenance Team Costs
+Liquidated Damages
+Transport/Delivery Speed
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Liquidated Damages maybe reduced
+Customer not providing the information needed
+Problem Report Team
+Algorithms Acceptance
+Renewal of Annual Licenses
+ Win 7 update to Win 10 OS
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Dummy Risk For reporting
+Agreement on Interface
+Obsolescence and missing info
+Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Integration
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Project Contingency
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Generic Labour Risk Provision
+Lack of usage history for engine may impact
+Delivery of prime equipment - Customer
+Training Programme capacity
+Customer - Increased Scope
+System fails to achieve required performance
+Equipment Delivery
+Customer Documentation
+Mission System Laptops
+Movements of equipment and the exporter of record
+Maturity of Mission System - Software components
+Decrease in the cost of codification not realised
+Customer Cyber Solution
+Facilities Availability - Customer
+T&E - Additional Support / data is required
+Technical Publications overspend
+Technical Publications overspend
+Technical Publications overspend
+Service Desk
+End-End Performance
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Standard testing identifies issues
+Failure of a product pre delivery
+System Interfaces
+Risk we can't take Sub-system from Trials
+product reliability
+product not repairable in the Turn araound time
+GPS failure
+Tricky repair (above the estimated cost)
+System Integration Delays
+Mode specific Trials
+Customer Acceptance Operator Courses
+Spares pool is limited
+Lack of Engine Data
+Support Required to Customer EMC Testing
+System Interfaces
+Change of Component material
+Certification
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+ Customer Levy
+Test & Acceptance
+Potential Second Acceptance
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Delay to completion
+DAMAGE TO CUSTOMER DELIVERABLE UNITS
+Cable Damage
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Test & Acceptance
+Potential Second Acceptance
+Increase in Operating Hours (Opportunity)
+Dummy Risk For reporting
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Generic Labour Risk Provision
+Delays to Install
+Manage current System support contract
+Remove Uniteruptable Power Supply from Solution
+Customer Costs
+Opportunity for cost savings on Cabinet
+Opportunity to claim from Customer for extended programme
+Shock Testing Re-inbursement from Customer
+System fleet wide license agreement
+ILS Handbook Costs
+Current operational needs and understanding
+System Rapid Prototyping
+Platform Availability
+Customer not providing the information needed
+Problem Report Team
+Algorithms Acceptance
+Renewal of Annual Licenses
+ Win 7 update to Win 10 OS
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading from final year
+Liquidated Damages maybe reduced
+Movements of equipment and the exporter of record
+Maturity of Mission System - Software components
+Decrease in the cost of codification not realised
+Customer Cyber Solution
+Facilities Availability - Customer
+T&E - Additional Support / data is required
+Technical Publications overspend
+Technical Publications overspend
+Technical Publications overspend
+Service Desk
+End-End Performance
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Standard testing identifies issues
+Failure of a product pre delivery
+System Interfaces
+Risk we can't take Sub-system from Trials
+product reliability
+product not repairable in the Turn araound time
+GPS failure
+Tricky repair (above the estimated cost)
+System Integration Delays
+Mode specific Trials
+Customer Acceptance Operator Courses
+Spares pool is limited
+Lack of Engine Data
+Support Required to Customer EMC Testing
+System Interfaces
+Certification
+Lack of usage history for engine may impact
+Delivery of prime equipment - Customer
+Training Programme capacity
+Customer - Increased Scope
+System fails to achieve required performance
+Equipment Delivery
+Customer Documentation
+Agreement on Interface
+Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Integration
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Re-imaging of PC's - additional material/Labour effort
+SW codes availability
+Customer Resource avaliability
+Customer Suitably Qualified and experienced staff availability
+Change of Manufacturing from Supplier on this Contract
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Facility Maintenance Team Costs
+Component Approval delay due to Suitably Qualified and experienced staff availability Resource availability
+Trial delay due to weather
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+ Win 7 update to Win 10 OS
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+ Customer Levy
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Dummy Risk For reporting
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Customer not providing the information needed
+Problem Report Team
+product - Algorithms Acceptance
+Renewal of Annual Licenses
+ Win 7 update to Win 10 OS
+Generic Labour Risk Provision
+Indications associated with each agreed fault have been misunderstood
+Programme Extended during Development - Increase in level of effort resources
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Platforms Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Acceptance, Factory Acceptance Test, Integration
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Project Contingency
+Platform Availability
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading during final year
+Liquidated Damages maybe reduced
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Test & Acceptance
+Potential Second Acceptance
+SW codes availability
+Customer Resource avaliability
+Customer Suitably Qualified and experienced staff availability
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Component shortages
+Shock Requirement
+Requirements Flow Down
+EMC (Outputs)
+High Frequency Performance Testing
+Lead Free
+Movements of equipment and the exporter of record
+Decrease in the cost of codification not realised
+T&E - Additional Support / data is required
+Technical Publications overspend
+Technical Publications overspend
+Service Desk
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Failure of a product pre delivery
+System Interfaces
+product reliability
+product not repairable in the Turn araound time
+Tricky repair (above the estimated cost)
+Customer Acceptance Operator Courses
+Spares pool is limited
+System Interfaces
+Delivery of prime equipment - Customer
+Training Programme capacity
+Customer - Increased Scope
+System fails to achieve required performance
+Equipment Delivery
+Provision of Additional Training
+Build differs from data pack
+Customer find issues with delivered parts
+Project workload within Systems Engineering
+Open PR's
+Items damaged in transit
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Increase in Operating Hours (Opportunity)
+sub-System Cleanliness
+Material Cost validity
+Customer find issues with delivered parts.
+Power Supply Failures
+Accuracy of BOM
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Data throughput of solution exceeds Customer budget
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+Increase in Installation time in country
+System Cable
+Dummy Risk For reporting
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Engineering support is not available to support Tech Pubs and manual
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Customer Resource avaliability
+Customer Suitably Qualified and experienced staff availability
+Indications associated with each agreed fault have been misunderstood
+Programme delays
+Component shortages
+Component needs non-available items
+Component needs to be returned to UK
+Component taking longer to refurbish in country
+Reduced PM loading during final year
+Liquidated Damages maybe reduced
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Test & Acceptance
+Potential Second Acceptance
+Build differs from data pack
+Customer find issues with delivered parts
+Project workload within Systems Engineering
+Open PR's
+Items damaged in transit
+sub-System Cleanliness
+Material Cost validity
+Customer find issues with delivered parts.
+Power Supply Failures
+Accuracy of BOM
+Platforms Cable and connectors
+FOC Acceptance
+Additional Sw Builds to resolve issues found during Acceptance, Factory Acceptance Test, Integration
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Project Contingency
+Platform Availability
+Provision of Additional Training
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Generic Labour Risk Provision
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+System
+Material Obsolecence
+Procurement
+Shock Requirement
+Requirements Flow Down
+EMC (Outputs)
+High Frequency Performance Testing
+Lead Free
+Platform delays
+Movements of equipment and the exporter of record
+Decrease in the cost of codification not realised
+T&E - Additional Support / data is required
+Technical Publications overspend
+Service Desk
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Failure of a product pre delivery
+System Interfaces
+product reliability
+product not repairable in the Turn araound time
+Tricky repair (above the estimated cost)
+Customer Acceptance Operator Courses
+Spares pool is limited
+System Interfaces
+Delivery of prime equipment - Customer
+Training Programme capacity
+System fails to achieve required performance
+Equipment Delivery & Certification Risk
+ Win 7 update to Win 10 OS
+Increase in Operating Hours (Opportunity)
+Customer not providing the information needed
+Problem Report Team
+product - Algorithms Acceptance
+Renewal of Annual Licenses
+ Win 7 update to Win 10 OS
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Data throughput of solution exceeds Customer budget
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+Increase in Installation time in country
+System Cable
+Dummy Risk For reporting
+System
+Material Obsolecence
+Procurement
+Platform delays
+Project Contingency
+Platform Availability
+Platforms Cable and connectors
+Provision of Additional Training
+FOC Acceptance
+Power Supply transient problems. To be closed when integration work complete
+Additional Sw Builds to resolve issues found during Acceptance, Factory Acceptance Test, Integration
+Positioning error, normal versus specific modes
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Customer Resource avaliability
+Customer Suitably Qualified and experienced staff availability
+Indications associated with each agreed fault have been misunderstood
+Programme delays
+Reduced PM loading during final year
+Liquidated Damages maybe reduced
+Cost Base Savings.
+Risk Savings
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Engineering support is not available to support Tech Pubs and manual
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Customer not providing the information needed
+Problem Report Team
+product - Algorithms Acceptance
+Renewal of Licences
+ Win 7 update to Win 10 OS
+Production of the 4-Part Safety Case Stalls
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Component shortages
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Build differs from data pack
+Customer find issues with delivered parts
+Project workload within Systems Engineering
+Open PR's
+Items damaged in transit
+sub-System Cleanliness
+Material Cost validity
+Customer find issues with delivered parts.
+Power Supply Failures
+Accuracy of BOM
+Shock Requirement
+Requirements Flow Down
+EMC (Outputs)
+High Frequency Performance Testing
+Lead Free
+Movements of equipment and the exporter of record
+Decrease in the cost of codification not realised
+Technical Publications overspend
+Service Desk
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Failure of a product pre delivery
+System Interfaces
+product not repairable in the Turn araound time
+Tricky repair (above the estimated cost)
+Customer Acceptance Operator Courses
+Spares pool is limited
+System Interfaces
+Training Programme capacity
+System fails to achieve required performance
+Equipment Delivery & Certification Risk
+Provision for Emerging Risks
+Increased build rate
+Line Closure
+Increase in Operating Hours (Opportunity)
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Equipment export licences
+Supplier procured Equipment lead times
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Increase in Operating Hours (Opportunity)
+Dummy Risk For reporting
+System
+Material Obsolecence
+Procurement
+Increased build rate
+Line Closure
+Platform delays
+Project Contingency
+Platforms Cable and connectors
+FOC Acceptance
+Platform Availability
+Provision of Additional Training
+Additional Sw Builds to resolve issues found during Acceptance, Factory Acceptance Test, Integration
+Consoles - Supply to Schedule
+Engineering Changes to be embodied on the Rig
+Cost Base Savings.
+Risk Savings
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Engineering support is not available to support Tech Pubs and manual
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Movements of equipment and the exporter of record
+Decrease in the cost of codification not realised
+Technical Publications overspend
+Service Desk
+Decrease the cost of obsolescence sweeps
+Supplier Tech Docs not adequate
+Service Delivery Manager
+Failure of a product pre delivery
+System Interfaces
+product not repairable in the Turn araound time
+Tricky repair (above the estimated cost)
+Customer Acceptance Operator Courses
+Spares pool is limited
+System Interfaces
+Training Programme capacity
+System fails to achieve required performance
+Equipment Delivery & Certification Risk
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Customer Resource avaliability
+Customer Suitably Qualified and experienced staff availability
+Production of the 4-Part Safety Case Stalls
+Reduced PM loading during final year
+Liquidated Damages maybe reduced
+Component shortages
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Provision for Emerging Risks
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Warranty
+Management Reserve
+Financial Contingency
+Warranty
+Management Reserve
+Shock Requirement
+Requirements Flow Down
+High Frequency Performance Testing
+Moving to a Lead Free solution
+Non Availability of component
+Increased Security Requirement
+Build differs from data pack
+Customer find issues with delivered parts
+Project workload within Systems Engineering
+Open PR's
+Items damaged in transit
+sub-System Cleanliness
+Material Cost validity
+Customer find issues with delivered parts.
+Power Supply Failures
+Accuracy of BOM
+Indications associated with each agreed fault have been misunderstood
+Supplier Value for Money
+Build differs from data pack
+Customer find issues with delivered parts
+Project workload within Systems Engineering
+Open PR's
+Items damaged in transit
+sub-System Cleanliness
+Material Cost validity
+Customer find issues with delivered parts.
+Power Supply Failures
+Accuracy of BOM
+Customer find issues with delivered parts
+Owned Test Equipment at Customer site
+Material Cost validity
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Subsystem Fails EMC Testing 
+Supplier application
+Market research / Feedback
+Phase 3
+Transformer Production
+Equipment export licences
+Supplier procured Equipment lead times
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Increase in Operating Hours (Opportunity)
+Dummy Risk For reporting
+System
+Material Obsolecence
+Procurement
+Increased build rate
+Line Closure
+Project Contingency
+Platform Availability
+FOC Acceptance
+Provision of Additional Training
+Supplier Value for Money
+Consoles - Supply to Schedule
+Supplier Technical Publications maturity not at the level required
+Decrease the cost of obsolescence sweeps
+No Gen 1 products available, transition cost to Gen 2
+Failure of a product pre delivery
+complex repair ( over and above the forecast average)
+Spares pool is limited
+Training Programme capacity
+System fails to achieve required performance
+Shock Requirement
+Moving to a Lead Free solution
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Cost Base Savings.
+Risk Savings
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Indications associated with each agreed fault have been misunderstood
+Customer Resource avaliability
+Customer Suitably Qualified and experienced staff availability
+Production of the 4-Part Safety Case Stalls
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+SDLC Card Obsolescence
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Hardware
+Lack of Suitably Qualified and experienced staff availability ILS resource
+Unresolved technical debt (excluding ILS)
+Phase 3
+Transformer Production
+System
+Material Obsolecence
+Increased build rate
+Procurement
+Line Closure
+Signal Processing Delays
+Increased Security Requirement
+Second PDR Funding
+Increasing T&S Costs
+Reduced PM loading during final year
+Liquidated Damages maybe reduced
+Component shortages
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Provision for Emerging Risks
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Engineering support is not available to support Tech Pubs and manual
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Product Baseline delivery is late
+Recovering sunk cost due to Supply Chain
+System Cable
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Component position
+Obsolesence
+Lower System housing space
+Low Angle Performance
+Integrated performance
+Downstream Integration changes
+Rx System obsolescence
+Gain and noise in SubSystem measurements
+Equipment export licences
+Supplier procured Equipment lead times
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Setting to Work spares
+Financial Contingency
+Warranty
+Management Reserve
+Customer find issues with delivered parts
+Owned Test Equipment at Customer site
+Material Cost validity
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Subsystem Fails EMC Testing 
+Warranty
+Management Reserve
+Supplier application
+Market research / Feedback
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Product compatibility
+Acts of God
+Risk of interference due to the infrastructure
+Technology changes affecting ability to maintain security accreditation.
+Impact of global issues.
+Delay to Security accrediation
+Warranty
+Management Reserve
+Financial Contingency
+Warranty
+Management Reserve
+Customer find issues with delivered parts or documentation
+Owned Test Equipment at Customer site
+Material Cost validity
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Subsystem Fails EMC Testing 
+Increase in Operating Hours (Opportunity)
+Increased build rate
+Line Closure
+Components
+Material Obsolecence
+Components
+Material Obsolecence
+Increased build rate
+Line Closure
+Shock Requirement
+Moving to a Lead Free solution
+Component position
+Lower System housing space
+Low Angle Performance
+Integrated performance
+Downstream Integration changes
+Rx System obsolescence
+Gain and noise in SubSystem measurements
+Equipment export licences
+Supplier procured Equipment lead times
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Critical or Safety PR arises in Final build / Decision Point concludes new release reqd
+Engineering support is not available to support Tech Pubs and manual
+Programme extends beyond 50% SRA date
+Technical Acceptance proves to be more difficult than anticipated
+Refurbishment of equipment loaned for Testing or Trials.
+Supplier Technical Publications maturity not at the level required
+Decrease the cost of obsolescence sweeps
+No Gen 1 products available, transition cost to Gen 2
+Failure of a product pre delivery
+complex repair ( over and above the forecast average)
+Spares pool is limited
+Training Programme capacity
+System fails to achieve required performance
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Cost Base Savings.
+Risk Savings
+Supplier Value for Money
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+SDLC Card Obsolescence
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Hardware
+Lack of Suitably Qualified and experienced staff availability ILS resource
+Unresolved technical debt (excluding ILS)
+Market research / Feedback
+Supplier application
+Customer Resource availability
+Customer Suitably Qualified and experienced staff availability
+Production of the 4-Part Safety Case Stalls
+Liquidated Damages maybe reduced
+Component shortages
+Setting to Work spares
+FOC Acceptance
+Consoles - Supply to Schedule
+Project Contingency
+Platform Availability
+Provision of Additional Training
+Increased Security Requirement
+Second PDR Funding
+Increasing T&S Costs
+Dummy Risk For reporting
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Assembly - Testing
+ASSEMBLY - Rework @Supplier
+Project Contingency
+Material Storage
+Political
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Reliability Risk of using 26 gauge wire during warranty period.
+Requirement/Scope Creep
+Underwater Cable failure during flex testing occurs.
+Degraded Threat Identification Performance
+Update solution integration
+Interface (to Customer S/W)
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+platform Integration estimates are based upon Product Catalogue specification
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Opportunity resulting from optimised Portfolio Procurement strategy
+Facility Limitations
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Project Contingency
+Material Storage
+Political
+Programme delays
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Operational Performance
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Engineering change drives material rework for System items
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Risk of scrappage to Advance Procured Electronic Components
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Reliability Risk of using 26 gauge wire during warranty period.
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Thermal estimate of the system
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Increased connector load causes crosstalk issues.
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Thermal management can’t dissipate required heat load
+Cooling System Issues
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Product line generic components do not satisfy System qualification standards
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+False alarm rate presented to Operator
+Cooling System Issues
+ Customer Levy
+Additional Costs from Integration Cost Centre
+Customer dependencies on completing contract
+Provision for future emerging risks
+Bank Guarantees
+Provision for Emerging Risks
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Provision for future emerging risks
+Warranty
+Financial Contingency
+Customer find issues with delivered parts or documentation
+Owned Test Equipment at Customer site
+Warranty
+Management Reserve
+Items damaged in transit
+Management Reserve
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Subsystem Fails EMC Testing 
+Increased build rate
+Line Closure
+Components
+Material Obsolecence
+Project Contingency
+Material Storage
+Political
+Project Contingency
+Material Storage
+Political
+Components
+Material Obsolecence
+Increased build rate
+Line Closure
+Equipment export licences
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+Market research / Feedback
+There is a risk that trials are hindered due to sub-system problems
+Supplier Value for Money
+Cost Base Savings.
+Risk Savings
+Supplier application
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Programme delays
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+platform Integration estimates are based upon Product Catalogue specification
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Opportunity resulting from optimised Portfolio Procurement strategy
+Facility Limitations
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Shock Requirement
+Moving to a Lead Free solution
+Component position
+Lower System housing space
+Receiver System Performance
+Integrated performance
+Downstream Integration changes
+Amplifier Performance
+Gain and noise in SubSystem measurements
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Liquidated Damages maybe reduced
+Component shortages
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+SDLC Card Obsolescence
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Hardware
+Unresolved technical debt (excluding ILS)
+Dummy Risk For reporting
+Test Lab Availability
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Setting to Work spares
+FOC Acceptance
+Consoles - Supply to Schedule
+Reclaim delivery delays from Customer
+Procurement/ Supply chain and lead time on parts
+Legecy Components not excepted
+Reclaim delivery delays from Customer
+Procurement/ Supply chain and lead time on parts
+Increased Security Requirement
+Second PDR Funding
+Increasing T&S Costs
+Rhapsody modification to manual to System interface
+Configuration baseline unstable for Platform
+Sub-Contractor Performance - Support Services
+Project Contingency
+Platform Availability
+Provision of Additional Training
+EMC Waiver
+The installer configuration relies on previous stage to have costed this activity
+Additional in-country presence
+RedHat8 cannot be installed onto the existing Supplier hardware
+Without dedicated Datastore hardware, lots of re-work is required
+Variant of SW might be harder to patch post-migration
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+Customer Resource availability
+Customer Suitably Qualified and experienced staff availability
+Mission Systems accreditation
+Assembly - Testing
+ASSEMBLY - Rework @Supplier
+Failure to comply with legal expectations on EMC testing
+Lack of supplier capacity to fulfil our demand
+Insufficent Pentreation testing Budget
+ILS Planning
+Hardware Platform costed option
+Lack of resource
+Tiles
+Repair estimates uncertainty
+Provision for Emerging Risks
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Supplier Technical Publications maturity not at the level required
+Decrease the cost of obsolescence sweeps
+No Gen 1 products available, transition cost to Gen 2
+Failure of a product pre delivery
+complex repair ( over and above the forecast average)
+Spares pool is limited
+Training Programme capacity
+System fails to achieve required performance
+Operational Performance
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Requirement for Component Extension
+Operational hours not sufficient
+Routine Tech Pubs release does not align with Schedule
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Sub System Supplier Delay
+Connector Delay
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Source Inspection Q1  
+Manufacturing (Batching)
+Supplier late deliveries
+Source Inspection
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Obsolescence (address via LTB only)
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Assembly - Testing
+ASSEMBLY - Rework @Supplier
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal management can’t dissipate required heat load
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+False alarm rate presented to Operator
+Cooling System Issues
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Engineering change drives material rework for System items
+Reliability Risk of using 26 gauge wire during warranty period.
+Requirement/Scope Creep
+Underwater Cable failure during flex testing occurs.
+Risk of scrappage to Advance Procured Electronic Components
+Reliability Risk of using 26 gauge wire during warranty period.
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Cooling System Issues
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Schedule Overrun
+System performance levels
+Loss of Personnel
+Schedule & cost overrun
+Unexpected bugs found in release candidate of Software
+Problem Report Team
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Lack of resource
+Tiles
+Repair estimates uncertainty
+Reclaim delivery delays from Customer
+Procurement/ Supply chain and lead time on parts
+Material Storage
+Components
+Material Obsolecence
+Increased build rate
+Test Lab Availability
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Equipment export licences
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Line Closure
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Supplier Value for Money
+Programme delays
+Dummy Risk For reporting
+Setting to Work spares
+FOC Acceptance
+Consoles - Supply to Schedule
+Project Contingency
+Platform Availability
+Provision of Additional Training
+Shock Requirement
+Moving to a Lead Free solution
+Component position
+Lower System housing space
+Receiver System Performance
+Integrated performance
+Downstream Integration changes
+Amplifier Performance
+Gain and noise in SubSystem measurements
+Cost Base Savings.
+Risk Savings
+Financial Contingency
+Warranty
+Management Reserve
+Warranty
+Management Reserve
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Sub System Supplier Delay
+Connector Delay
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Source Inspection Q1  
+Manufacturing (Batching)
+Supplier late deliveries
+Source Inspection
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Obsolescence (address via LTB only)
+Customer find issues with delivered parts or documentation
+Owned Test Equipment at Customer site
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Subsystem Fails EMC Testing 
+Reclaim delivery delays from Customer
+Procurement/ Supply chain and lead time on parts
+Material Storage
+Increased build rate
+Line Closure
+Components
+Material Obsolecence
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal management can’t dissipate required heat load
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+False alarm rate presented to Operator
+Cooling System Issues
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Engineering change drives material rework for System items
+Reliability Risk of using 26 gauge wire during warranty period.
+Requirement/Scope Creep
+Underwater Cable failure during flex testing occurs.
+Risk of scrappage to Advance Procured Electronic Components
+Reliability Risk of using 26 gauge wire during warranty period.
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Cooling System Issues
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Market research / Feedback
+Supplier application
+Liquidated Damages maybe reduced
+Component shortages
+Provision for future emerging risks
+Provision for Emerging Risks
+Customer Resource availability
+Customer Suitably Qualified and experienced staff availability
+Mission Systems accreditation
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+EMC Waiver
+Second PDR Funding
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+SDLC Card Obsolescence
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Hardware
+Unresolved technical debt (excluding ILS)
+Rhapsody modification to manual to System interface
+Configuration baseline unstable for Platform
+Sub-Contractor Performance - Support Services
+Schedule Overrun
+System performance levels
+Loss of Personnel
+Schedule & cost overrun
+Unexpected bugs found in release candidate of Software
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Failure to comply with legal expectations on EMC testing
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+Insufficent Pentreation testing Budget
+platform Integration estimates are based upon Product Catalogue specification
+ILS Planning
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Opportunity resulting from optimised Portfolio Procurement strategy
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Technical Solution to not record data
+Software Resource availability
+Generic Resource Availability across the project life cycle.
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Requirement for Component Extension
+Operational hours not sufficient
+Routine Tech Pubs release does not align with Schedule
+ASSEMBLY - Rework @Supplier
+Operational Performance
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+Supplier Technical Publications maturity not at the level required
+Decrease the cost of obsolescence sweeps
+No Gen 1 products available, transition cost to Gen 2
+Failure of a product pre delivery
+complex repair ( over and above the forecast average)
+Spares pool is limited
+Training Programme capacity
+System fails to achieve required performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Engineering change drives material rework for System items
+Reliability Risk of using 26 gauge wire during warranty period.
+Underwater Cable failure during flex testing occurs.
+Risk of scrappage to Advance Procured Electronic Components
+Reliability Risk of using 26 gauge wire during warranty period.
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Cooling System Issues
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+RedHat8 cannot be installed onto the existing Consoles
+The installer configuration relies on previous stage to have costed this activity
+Variant of SW might be harder to patch post-migration
+Without dedicated Datastore hardware, lots of re-work is required
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+External Hardware Engineering Scope & Suitably Qualified and experienced staff availability  Uncertainty
+Project Mobilisation
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Problem Report Team
+Supplier Technical Publications maturity not at the level required
+Decrease the cost of obsolescence sweeps
+No Gen 1 products available, transition cost to Gen 2
+Failure of a product pre delivery
+complex repair ( over and above the forecast average)
+Spares pool is limited
+Training Programme capacity
+System fails to achieve required performance
+Lack of resource
+Tiles
+Repair estimates uncertainty
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Components
+Material Obsolecence
+Increased build rate
+Line Closure
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Dummy Risk For reporting
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+Setting to Work spares
+First install takes place during a Support Period
+FOC Acceptance
+Failure to comply with legal expectations on EMC testing
+Project Contingency
+Consoles - Supply to Schedule
+Platform Availability
+Provision of Additional Training
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+Insufficent Pentreation testing Budget
+platform Integration estimates are based upon Product Catalogue specification
+Financial Contingency
+ILS Planning
+Warranty
+MTBF modelling based on theoretical Product data
+Warranty
+Management Reserve
+Management Reserve
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Opportunity resulting from optimised Portfolio Procurement strategy
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Increased build rate
+Line Closure
+Supplier application
+Components
+Material Obsolecence
+Customer Resource availability
+Mission Systems accreditation
+Market research / Feedback
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Requirement for Component Extension
+Operational hours not sufficient
+Routine Tech Pubs release does not align with Schedule
+Cost Base Savings.
+Risk Savings
+Technical Solution to not record data
+Software Resource availability
+Generic Resource Availability across the project life cycle.
+RedHat8 cannot be installed onto the existing Consoles
+The installer configuration relies on previous stage to have costed this activity
+Variant of SW might be harder to patch post-migration
+Without dedicated Datastore hardware, lots of re-work is required
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+Test Lab Availability
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Equipment export licences
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Sub System Supplier Delay
+Connector Delay
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Source Inspection Q1  
+Manufacturing (Batching)
+Supplier late deliveries
+Source Inspection
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Obsolescence (address via LTB only)
+Customer find issues with delivered parts or documentation
+Owned Test Equipment at Customer site
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Subsystem Fails EMC Testing 
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+SDLC Card Obsolescence
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Hardware
+Unresolved technical debt (excluding ILS)
+Supplier Value for Money
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal management can’t dissipate required heat load
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+False alarm rate presented to Operator
+Cooling System Issues
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Engineering change drives material rework for System items
+Reliability Risk of using 26 gauge wire during warranty period.
+Requirement/Scope Creep
+Underwater Cable failure during flex testing occurs.
+Risk of scrappage to Advance Procured Electronic Components
+Reliability Risk of using 26 gauge wire during warranty period.
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Cooling System Issues
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+EMC Waiver
+Liquidated Damages maybe reduced
+Component shortages
+Provision for future emerging risks
+Shock Requirement
+Moving to a Lead Free solution
+Component position
+Lower System housing space
+Receiver System Performance
+Integrated performance
+Lack of Analysis
+Phase 3 bid budget
+Industry Resource Availability
+Sub-system Industrial  capacity
+Modifications to contributing systems not costed.
+Customer demanding new testing
+End of tasking
+Rhapsody modification to manual to System interface
+Configuration baseline unstable for Platform
+Sub-Contractor Performance - Support Services
+Schedule Overrun
+System performance levels
+Loss of Personnel
+Schedule & cost overrun
+Unexpected bugs found in release candidate of Software
+Downstream Integration changes
+Gain and noise measurements
+USB development generates unresolvable issues which impact delivery schedule
+Programme delays
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Data throughput of solution exceeds Customer budget
+Increase in Installation time in country
+ASSEMBLY - Rework @Supplier
+External Hardware Engineering Scope & Suitably Qualified and experienced staff availability  Uncertainty
+Project Mobilisation
+Operational Performance
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Components
+Material Obsolecence
+Increased build rate
+Line Closure
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Dummy Risk For reporting
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Failure to comply with legal expectations on EMC testing
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Increased build rate
+Line Closure
+Product Catalogue - Touch Labour
+Components
+Material Obsolecence
+Product Catalouge - tuning
+platform Integration estimates are based upon Product Catalogue specification
+ILS Planning
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Opportunity resulting from optimised Portfolio Procurement strategy
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Technical Solution to not record data
+Software Resource availability
+Assembly solution
+Generic Resource Availability across the project life cycle.
+USB development generates unresolvable issues which impact delivery schedule
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Cost Base Savings.
+Risk Savings
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Requirement for Component Extension
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Operational hours not sufficient
+Supplier Delay
+Sub System Supplier Delay
+Routine Tech Pubs release does not align with Schedule
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Source Inspection Q1  
+Manufacturing (Batching)
+Supplier late deliveries
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Handbook Ammendments
+Obsolescence (address via LTB only)
+Forward Load Demand on Resource
+Customer find issues with delivered parts or documentation
+SoW Requirements are not scoped
+Owned Test Equipment at Customer site
+Contract Performance Commitments
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Liquidated Damages maybe reduced
+Open PR's
+Subsystem Fails EMC Testing 
+Component shortages
+Provision for future emerging risks
+Programme delays
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal management can’t dissipate required heat load
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+False alarm rate presented to Operator
+Cooling System Issues
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Engineering change drives material rework for System items
+Reliability Risk of using 26 gauge wire during warranty period.
+Requirement/Scope Creep
+Underwater Cable failure during flex testing occurs.
+Risk of scrappage to Advance Procured Electronic Components
+Reliability Risk of using 26 gauge wire during warranty period.
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Cooling System Issues
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Customer Resource availability
+Mission Systems accreditation
+EMC Waiver
+Modifications to contributing systems not costed.
+Customer demanding new testing
+End of tasking
+Test Lab Availability
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Equipment export licences
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+External Hardware Engineering Scope & Suitably Qualified and experienced staff availability  Uncertainty
+Project Mobilisation
+Setting to Work spares
+FOC Acceptance
+Consoles - Supply to Schedule
+Project Contingency
+Platform Availability
+Provision of Additional Training
+Lack of Analysis
+Configuration baseline unstable for Platform
+Sub-Contractor Performance - Support Services
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+SDLC Card Obsolescence
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Hardware
+Unresolved technical debt (excluding ILS)
+Lower System housing space
+Integrated performance
+Shock Requirement
+Moving to a Lead Free solution
+Component position
+Receiver System Performance
+Downstream Integration changes
+Gain and noise measurements
+PC Delay - Supplier
+Reduce platform quantity
+Graduates team support
+Internal Supplier Team
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Supplier Value for Money
+Thermal Chamber
+Supplier Issues
+Obsolescence of the boards
+Reliability of module
+Material savings
+Material Delivery date
+Increase in material cost
+Resources tight
+Software on testing equipment
+Thermal Chamber
+Extra test equipment
+Supplier Issues
+Obsolescence of the boards
+Trade conpliance issues
+Material Delivery date
+Increase in material cost
+Resources
+Software on testing equipment
+Desiccant Solution required needs to be resolved
+Additional Material required for investigations
+Line of Balance clear dates does not reconcile with schedule
+Altitude impact
+Thermal impact from Chassis
+Failure of Compliance to Product specification
+Reduction of Qual units
+Failure to meet promised delivery dates
+Over temperature causing damage due to misalignment
+Any electronic redesign is not  captured in schedule or costs
+Range performance does not meet requirement.
+Suppliers can't meet timescales.
+Unit Production Cost
+Ease of build in production
+NRE causing increase to project budget
+New Materials not tested for Out Gassing
+Energy Meter untested
+Loss of critical personnel
+We do not achieve Standard compliant energy over temperature
+If the requirement we have specified isnt achieved, the product becomes unsellable.
+Beam requirement
+Crystal switch
+Resonating performance
+Reliability does not meet requirement
+Decrease the cost of obsolescence sweeps
+No Gen 1 products available, transition cost to Gen 2
+complex repair ( over and above the forecast average)
+Spares pool is limited
+System fails to achieve required performance
+Hazard Analysis Delay - SSS
+Consider descoping component S levels
+SubSystem measures not in place and work to implement not in the budget
+Representative Hardware for testing
+Peer Review Failures
+Competence Centre Level of effort
+Availability of prototype Hardware Dependency on projects
+Cost reduction on non software work packages
+System development of components 
+Financial Contingency
+Warranty
+Management Reserve
+Lack of resource
+Tiles
+Repair estimates uncertainty
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Warranty
+Management Reserve
+RedHat8 cannot be installed onto the existing Consoles
+The installer configuration relies on previous stage to have costed this activity
+Variant of SW might be harder to patch post-migration
+Without dedicated Datastore hardware, lots of re-work is required
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Thermal management can’t dissipate required heat load
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+False alarm rate presented to Operator
+Cooling System Issues
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Operational Performance
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Problem Report Team
+Lack of resource
+Loss of Key Resources - (Design, Technical Engineering)
+Repair estimates uncertainty
+Delayed Config File delivery
+Cost  of sucession planning
+Not doing specific releases
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Components
+Material Obsolecence
+Increased build rate
+Line Closure
+Dummy Risk For reporting
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Increased build rate
+Line Closure
+Components
+Material Obsolecence
+Technical Solution to not record data
+USB development generates unresolvable issues which impact delivery schedule
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Engineering support is not available to support Tech Pubs
+Sub System Supplier Delay
+Programme extends beyond 50% SRA date
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Source Inspection Q1  
+Manufacturing (Batching)
+Supplier late deliveries
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Requirement for Component Extension
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Test Lab Availability
+Obsolescence (address via LTB only)
+Product Hardening
+Customer find issues with delivered parts or documentation
+Operational hours not sufficient
+Change in REACH/RoSH Legislation
+Owned Test Equipment at Customer site
+Un-Planned Production Activities
+Routine Tech Pubs release does not align with Schedule
+Equipment export licences
+Items damaged in transit
+Additional UK integration of the System product
+sub-System Cleanliness
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Project workload within Systems Engineering
+Supplier Deiivery Schedule
+Open PR's
+Immaturity of the core product
+Product documentation
+Subsystem Fails EMC Testing 
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+PC Delay - Supplier
+Setting to Work spares
+Configuration baseline unstable for Platform
+Sub-Contractor Performance - Support Services
+FOC Acceptance
+Consoles - Supply to Schedule
+Customer Resource availability
+Mission Systems accreditation
+Thermal Chamber
+Supplier Issues
+Obsolescence of the boards
+Reliability of module
+Material savings
+Material Delivery date
+Increase in material cost
+Resources tight
+Software on testing equipment
+Thermal Chamber
+Extra test equipment
+Supplier Issues
+Obsolescence of the boards
+Trade conpliance issues
+Material Delivery date
+Increase in material cost
+Resources
+Software on testing equipment
+Cost Base Savings.
+Risk Savings
+External Hardware Engineering Scope & Suitably Qualified and experienced staff availability  Uncertainty
+Project Mobilisation
+Desiccant Solution required needs to be resolved
+Additional Material required for investigations
+Line of Balance clear dates does not reconcile with schedule
+Altitude impact
+Thermal impact from Chassis
+Failure of Compliance to Product specification
+Reduction of Qual units
+Failure to meet promised delivery dates
+Over temperature causing damage due to misalignment
+Any electronic redesign is not  captured in schedule or costs
+Range performance does not meet requirement.
+Suppliers can't meet timescales.
+Unit Production Cost
+Ease of build in production
+NRE causing increase to project budget
+New Materials not tested for Out Gassing
+Energy Meter untested
+Loss of critical personnel
+We do not achieve Standard compliant energy over temperature
+If the requirement we have specified isnt achieved, the product becomes unsellable.
+Beam requirement
+Crystal switch
+Resonating performance
+Reliability does not meet requirement
+Hazard Analysis Delay - SSS
+Consider descoping Component S levels
+SubSystem measures not in place and work to implement not in the budget
+Peer Review Failures
+Competence Centre Level of effort
+Availability of prototype Hardware Dependency on projects
+System development of components 
+Liquidated Damages maybe reduced
+Component shortages
+Provision for future emerging risks
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Paint issue re-occurring with the different shades
+Test equipment not reliable at supplier
+Supplier do not deliver gasket in timely manner
+EMC Waiver
+Modifications to contributing systems not costed.
+End of tasking
+Lack of Analysis
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Test Hardware
+Unresolved technical debt (excluding ILS)
+UK - Joint team
+Material Obsolecence
+Reclaim pellet delivery delays from Customer
+Export Applications
+Trials
+Procurement/Supply chain and lead time on parts
+Tooling and Test Equipment
+Avaliability of correct hospital stock for repair
+Additional Spares and repairs
+Obsolescent Monitoring
+TTE Supplier
+Avaliablity of key resource
+Provide quote for next generation system
+Marching army Customer costs for duration of contract
+Increase of bank fees and other direct costs
+Customer- Training
+Risk of funding requirement
+Failure to meet repair turnaround time
+Increase of Spares UPCs
+Core Management team shared across other programmes
+Reduction in Spares UPC
+Less repairs than planned in base costs
+Supplier  abilities mature exponentially throughout contract requiring less FSE support
+Our being liable for freight costs.
+Supplier request financial support for Training admin.
+Extended working hours during site visits
+Additional visit support requested by Customer/Supplier
+Additional quantities of spares/material/STTE requested by customer
+Additional training requested by customer.
+Misc costs incurred at trials
+Additional trials support requested (+3)
+Travel Cost Increases
+Low attrition
+Shelf Life of products
+Task 30 - Pylon Procurement
+Project Contingency
+Platform Availability
+Provision of Additional Training
+Lower System housing space
+Integrated performance
+Shock Requirement
+Component position
+Receiver System Performance
+Downstream Integration changes
+Gain and noise measurements
+Cage required for development
+Platform and equipment required for Factory Acceptance Test
+CE Marking
+Review scope of what currently contains code
+SW Core Estimate
+Delay in SW completion completion - Safety issues
+No Gen 1 products available, transition cost to Gen 2
+complex repair ( over and above the forecast average)
+Spares pool is limited
+System fails to achieve required performance
+Programme delays
+Engineering Change
+Export to customer will not be achieved in Project Timescales
+Supplier Value for Money
+Modules Obsolescence Resolution - Domestic Programmes
+Product System Acceptance lateness
+Factory Acceptance Test/SSAT acceptance criteria is more onerous than expected.
+Connector Results In System Failure/Unreliable Performance
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Supplier delivers non-compliant component due to specification misunderstanding
+Video Chain Performance Issues
+Engineering change drives material rework for System items
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire during warranty period.
+Late Deliveries Between internal organisations
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Requirement/Scope Creep
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Information provided to the connector supplier ahead of CDR is immature and leads to redesign
+Assembly Technical Specification release ahead of engineering process
+Fluid corrosion
+Underwater Cable failure during flex testing occurs.
+Unit Assemby does not perform as required
+The Customer supplied carcass causes issues during the vibration testing
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Risk of scrappage to Advance Procured Electronic Components
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Reliability Risk of using 26 gauge wire during warranty period.
+Rejection on new non-compliances (display related) as part of bid.
+Free-issued component is delivered with faults
+Post Transfer modifications are required
+Verification strategy changes post bid leads to cost and schedule impact
+Customer does not provide DNS IP addresses by SFR
+The previously agreed scope from HMI Workshops expands
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+COTS item grounding
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Thermal estimate of the system
+Equipment being delivered prior to full EMC at System level
+Late Deliveries Between internal organisations
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Increased connector load causes crosstalk issues.
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Thermal management can’t dissipate required heat load
+Software resourcing and increased effort to manage software team
+Unexpected design changes
+Schedule Risk Adjustment
+Cooling System Issues
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module characteriSuppliercs
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Product line generic components do not satisfy System qualification standards
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+False alarm rate presented to Operator too high
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Cooling System Issues
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Increased build rate
+Line Closure
+Components
+Material Obsolecence
+Financial Contingency
+Warranty
+Management Reserve
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Failure to comply with legal expectations on EMC testing
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+platform Integration estimates are based upon Product Catalogue specification
+ILS Planning
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Opportunity resulting from optimised Portfolio Procurement strategy
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Warranty
+Management Reserve
+Reclaim pellet delivery delays from Customer
+Procurement/Supply chain and lead time on parts
+Components
+Material Obsolecence
+Increased build rate
+Line Closure
+RedHat8 cannot be installed onto the existing Consoles
+The installer configuration relies on previous stage to have costed this activity
+Variant of SW might be harder to patch post-migration
+Without dedicated Datastore hardware, lots of re-work is required
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+Unit Assemby does not perform as required
+Vendors Don't Adhere To Standards: format unexpected issues.
+False alarm rate presented to Operator
+Cooling System Issues
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Connector Results In System Failure/Unreliable Performance
+Supplier delivers non-compliant component due to specification misunderstanding
+Engineering change drives material rework for System items
+Reliability Risk of using 26 gauge wire during warranty period.
+Requirement/Scope Creep
+Underwater Cable failure during flex testing occurs.
+Risk of scrappage to Advance Procured Electronic Components
+Reliability Risk of using 26 gauge wire during warranty period.
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Equipment being delivered prior to full EMC at System level
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Cooling System Issues
+Product line generic components do not satisfy System qualification standards
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Video Chain Performance Issues
+Incorrect Simulator functionality delivered
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Fluid corrosion
+Unit Assemby does not perform as required
+Environmental test failure
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Free-issued component is delivered with faults
+Verification strategy changes post bid leads to cost and schedule impact
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module mass
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Supplier Mech failure
+Marching army Customer Delay
+Telemetry solution needs additional design effort
+Design Additional effort required
+Machine quote accuracy
+Operational Performance
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Problem Report Team
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Warranty
+Financial Contingency
+Warranty
+Management Reserve
+Management Reserve
+Without dedicated Datastore hardware, lots of re-work is required
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+Test Lab Availability
+Project Contingency
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Unavailability of Network
+Equipment export licences
+Platform Availability
+Additional UK integration of the System product
+Provision of Additional Training
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Security Encryption Solution
+Key Resources Uavailable
+Hardware CoSupplierng
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Test Hardware
+Unresolved technical debt (excluding ILS)
+Consoles - Supply to Schedule
+Configuration baseline unstable for Platform
+Engineering Change
+Setting to Work spares
+SW Core Estimate
+Delay in SW completion - Safety issues
+FOC Acceptance
+Tooling and Test Equipment
+Hazard Analysis Delay - SSS
+Avaliability of correct hospital stock for repair
+Additional Spares and repairs
+Obsolescent Monitoring
+SubSystem measures not in place and work to implement not in the budget
+TTE Supplier
+Peer Review Failures
+Avaliablity of key resource
+Provide quote for next generation system
+Competence Centre Level of effort
+Availability of prototype Hardware Dependency on projects
+System development of components
+Dummy Risk For reporting
+Cage required for development
+Platform and equipment required for Factory Acceptance Test
+Technical Solution to not record data
+USB development generates unresolvable issues which impact delivery schedule
+External Hardware Engineering Scope & Suitably Qualified and experienced staff availability  Uncertainty
+Project Mobilisation
+Customer Resource availability
+Mission Systems accreditation
+Cost Base Savings.
+Risk Savings
+Desiccant Solution required needs to be resolved
+Additional Material required for investigations
+Line of Balance clear dates does not reconcile with schedule
+Altitude impact
+Thermal impact from Chassis
+Failure of Compliance to Product specification
+Reduction of Qual units
+Failure to meet promised delivery dates
+Over temperature causing damage due to misalignment
+Any electronic redesign is not  captured in schedule or costs
+Range performance does not meet requirement.
+Suppliers can't meet timescales.
+Unit Production Cost
+Ease of build in production
+NRE causing increase to project budget
+New Materials not tested for Out Gassing
+Energy Meter untested
+Loss of critical personnel
+We do not achieve Standard compliant energy over temperature
+If the requirement we have specified isnt achieved, the product becomes unsellable.
+Beam requirement
+Crystal switch
+Resonating performance
+Reliability does not meet requirement
+Product System Acceptance lateness
+Factory Acceptance Test/SSAT acceptance criteria is more onerous than expected.
+Paint issue re-occurring with the different shades
+Test equipment not reliable at supplier
+Supplier do not deliver gasket in timely manner
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Sub System Supplier Delay
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Source Inspection Q1  
+Manufacturing (Batching)
+Supplier late deliveries
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Obsolescence (address via LTB only)
+Customer find issues with delivered parts or documentation
+Owned Test Equipment at Customer site
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Lower System housing space
+Integrated performance
+Shock Requirement
+Component position
+Receiver System Performance
+Downstream Integration changes
+Gain and noise measurements
+CE Marking
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Requirement for Component Extension
+Operational hours not sufficient
+Connector Results In System Failure/Unreliable Performance
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Supplier delivers non-compliant component due to specification misunderstanding
+Video Chain Performance Issues
+Engineering change drives material rework for System items
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire during warranty period.
+Late Deliveries Between internal organisations
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Requirement/Scope Creep
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Information provided to the connector supplier ahead of CDR is immature and leads to redesign
+Assembly Technical Specification release ahead of engineering process
+Fluid corrosion
+Underwater Cable failure during flex testing occurs.
+Unit Assemby does not perform as required
+The Customer supplied carcass causes issues during the vibration testing
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Risk of scrappage to Advance Procured Electronic Components
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Reliability Risk of using 26 gauge wire during warranty period.
+Rejection on new non-compliances (display related) as part of bid.
+Free-issued component is delivered with faults
+Post Transfer modifications are required
+Verification strategy changes post bid leads to cost and schedule impact
+Customer does not provide DNS IP addresses by SFR
+The previously agreed scope from HMI Workshops expands
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+COTS item grounding
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Thermal estimate of the system
+Equipment being delivered prior to full EMC at System level
+Late Deliveries Between internal organisations
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Increased connector load causes crosstalk issues.
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Thermal management can’t dissipate required heat load
+Software resourcing and increased effort to manage software team
+Unexpected design changes
+Schedule Risk Adjustment
+Cooling System Issues
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module characteriSuppliercs
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Product line generic components do not satisfy System qualification standards
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+False alarm rate presented to Operator too high
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Cooling System Issues
+Material Obsolecence
+Export Applications
+Trials
+Procurement/Supply chain and lead time on parts
+Thermal Chamber
+Supplier Issues
+Obsolescence of the boards
+Reliability of module
+Material Delivery date
+Increase in material cost
+Resources tight
+Software on testing equipment
+Shelf Life of products
+Thermal Chamber
+Extra test equipment
+Supplier Issues
+Obsolescence of the boards
+Trade conpliance issues
+Material Delivery date
+Increase in material cost
+Resources
+Software on testing equipment
+Low attrition
+EMC Waiver
+Modifications to contributing systems not costed.
+End of tasking
+Programme delays
+We do not receive the relevant paperwork in order for us to process platformment of production unit...
+If any unit requires opened then there is a risk the connector fails.
+Battery design not fit for purpose.
+Will customer purchase rechargeable battery and charger
+Fails pressure test. Not due to the addition of the filter.
+Material tear on removal of Protective Insert in the cover
+Opening units can cause concequential damage
+Updated Filter Design
+Customer may return/reject units due to workmanplatform issues
+Chip – we have ordered LTB but we use these up and require more but grey market is exhausted
+Lack of Analysis
+Marching army Customer costs for duration of contract
+Increase of bank fees and other direct costs
+Customer- Training
+Risk of funding requirement
+Failure to meet repair turnaround time
+Increase of Spares UPCs
+Core Management team shared across other programmes
+Reduction in Spares UPC
+Less repairs than planned in base costs
+Supplier  abilities mature exponentially throughout contract requiring less FSE support
+Our being liable for freight costs.
+Supplier request financial support for Training admin.
+Extended working hours during site visits
+Additional visit support requested by Customer/Supplier
+Additional quantities of spares/material/STTE requested by customer
+Additional training requested by customer.
+Misc costs incurred at trials
+Additional trials support requested (+3)
+Travel Cost Increases
+Lack of Technical Control plan
+Complete SDRL deliverables in Schedule
+Resource creating a single point of failure
+Creation of Serial Number for formal Software Releases
+Change in Delivery Approach 
+Export to customer will not be achieved in Project Timescales
+We do not receive the relevant paperwork in order for us to process platformment of production unit...
+If any unit requires opened then there is a risk the connector fails.
+Battery design not fit for purpose.
+Will customer purchase rechargeable battery and charger
+Fails pressure test. Not due to the addition of the filter.
+Material tear on removal of Protective Insert in the cover
+Opening units can cause concequential damage
+Updated Filter Design
+Customer may return/reject units due to workmanplatform issues
+Shelf life products
+Components
+Legacy material
+Modules Obsolescence Resolution - Domestic Programmes
+Sensor input performance
+Extractor risk
+Liquidated Damages maybe reduced
+Component shortages
+Provision for future emerging risks
+Critical Resources / Skills
+Software incompatibility issue
+SIL integration
+Delayed Config File delivery
+Cost  of sucession planning
+Not doing specific releases
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Procurement Opportunity - Supplier
+Line Closure Savings
+Production Build / Touch Labour
+No Gen 1 products available, transition cost to Gen 2
+complex repair ( over and above the forecast average)
+Spares pool is limited
+System fails to achieve required performance
+Supplier Mech failure
+Marching army Customer Delay
+Telemetry solution needs additional design effort
+Design Additional effort required
+Machine quote accuracy
+Uncertainty
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Failure to comply with legal expectations on EMC testing
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+platform Integration estimates are based upon Product Catalogue specification
+ILS Planning
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Opportunity resulting from optimised Portfolio Procurement strategy
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Task 30 - Pylon Procurement
+Handbook Ammendments
+Forward Load Demand on Resource
+SoW Requirements are not scoped
+Contract Performance Commitments
+Supplier Value for Money
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+product - Algorithms Acceptance
+Renewal of Licences
+More PR's than planned
+Operational Performance
+Product technical debt requiring project resolution
+Additional Auxillary Hardware Changes on System
+Insufficient Systems to support Trainer project needs.
+Latent Defects
+Non compliance against SSS drives minor design change.
+Capability for each System release does not remain stable
+Task 30 - Pylon Procurement
+Warranty
+Cage required for development
+Platform and equipment required for Factory Acceptance Test
+Technical Solution to not record data
+Management Reserve
+USB development generates unresolvable issues which impact delivery schedule
+External Hardware Engineering Scope & Suitably Qualified and experienced staff availability  Uncertainty
+Project Mobilisation
+Cost Base Savings.
+Risk Savings
+Increase in material cost
+PO Issued to non-approved supplier
+Critical Resources / Skills
+Without dedicated Datastore hardware, lots of re-work is required
+Software incompatibility issue
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+Delayed Config File delivery
+SIL integration
+Material Obsolecence
+Export Applications
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Trials
+Cost  of succession planning
+Not doing specific releases
+Procurement/Supply chain and lead time on parts
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Procurement Opportunity - Supplier
+Line Closure Savings
+Production Build / Touch Labour
+Programme delays
+Requirement for Component Extension
+Operational hours not sufficient
+Configuration baseline unstable for Platform
+Consoles - Supply to Schedule
+Lack of Technical Control plan
+Complete SDRL deliverables in Schedule
+Resource creating a single point of failure
+Creation of Serial Number for formal Software Releases
+Engineering Change
+Change in Delivery Approach 
+Setting to Work spares
+Export to customer will not be achieved in Project Timescales
+SubSystem measures not in place and work to implement not in the budget
+FOC Acceptance
+Peer Review Failures
+Competence Centre Level of effort
+Availability of prototype Hardware Dependency on projects
+System development of components
+Test equipment not reliable at supplier
+Liquidated Damages
+Acceptance overheads (Legacy)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Sub System Supplier Delay
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Manufacturing (Batching)
+Supplier late deliveries
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Lower System housing space
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+We do not receive the relevant paperwork in order for us to process platformment of production unit...
+Integrated performance
+Obsolescence (address via LTB only)
+If any unit requires opened then there is a risk the connector fails.
+Shock Requirement
+Customer find issues with delivered parts or documentation
+Will customer purchase rechargeable battery and charger
+Owned Test Equipment at Customer site
+Fails pressure test. Not due to the addition of the filter.
+Items damaged in transit
+sub-System Cleanliness
+Updated Filter Design
+Project workload within Systems Engineering
+Customer may return/reject units due to workmanplatform issues
+Receiver System Performance
+Open PR's
+Gain and noise measurements
+CE Marking
+Supplier Value for Money
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Supplier Mech failure
+Marching army Customer Delay
+Telemetry solution needs additional design effort
+Design Additional effort required
+Machine quote accuracy
+Uncertainty
+Desiccant Solution required needs to be resolved
+Additional Material required for investigations
+Line of Balance clear dates does not reconcile with schedule
+Altitude impact
+Thermal impact from Chassis
+Failure of Compliance to Product specification
+Reduction of Qual units
+Failure to meet promised delivery dates
+Over temperature causing damage due to misalignment
+Any electronic redesign is not  captured in schedule or costs
+Range performance does not meet requirement.
+Suppliers can't meet timescales.
+Unit Production Cost
+Ease of build in production
+NRE causing increase to project budget
+New Materials not tested for Out Gassing
+Energy Meter untested
+Loss of critical personnel
+We do not achieve Standard compliant energy over temperature
+If the requirement we have specified isnt achieved, the product becomes unsellable.
+Beam requirement
+Crystal switch
+Resonating performance
+Reliability does not meet requirement
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unavailability of Test Hardware
+Unresolved technical debt (excluding ILS)
+EMC Waiver
+Modifications to contributing systems not costed.
+End of tasking
+Lack of Analysis
+Test Lab Availability
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Equipment export licences
+Additional UK integration of the System product
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Supplier Deiivery Schedule
+Immaturity of the core product
+Product documentation
+Further edit of Sub-contractor technical publications
+Key Resources Uavailable
+Avaliability of correct hospital stock for repair
+Additional Spares and repairs
+Obsolescent Monitoring
+TTE Supplier
+Avaliablity of key resource
+Provide quote for next generation system
+Tooling and Test Equipment
+Thermal Chamber
+Supplier Issues
+Obsolescence of the boards
+Reliability of module
+Material Delivery date
+Increase in material cost
+Resources tight
+Thermal Chamber
+Extra test equipment
+Shelf Life of products
+Supplier Issues
+Obsolescence of the boards
+Trade conpliance issues
+Material Delivery date
+Increase in material cost
+Resources
+Low attrition
+Shelf life products
+Components
+Legacy material
+Customer Resource availability
+Mission Systems accreditation
+Customer Approval for Customer Furnished Equipmnet Test Equipment
+Lack of resource
+Loss of Key Resources - (Design, Technical Engineering)
+Repair estimates uncertainty
+Supplier supplier has been bought out - Potential loss of access to our stock
+Head Repairs
+Liquidated Damages maybe reduced
+Component shortages
+New wound components do not meet specification at system level as original components
+New component fails Qualification on Shock/Vibration
+Functional Test set up - missing equipment
+Marching army Customer costs for duration of contract
+Increase of bank fees and other direct costs
+Customer- Training
+Risk of funding requirement
+Failure to meet repair turnaround time
+Increase of Spares UPCs
+Core Management team shared across other programmes
+Reduction in Spares UPC
+Less repairs than planned in base costs
+Supplier  abilities mature exponentially throughout contract requiring less FSE support
+Our being liable for freight costs.
+Supplier request financial support for Training admin.
+Extended working hours during site visits
+Additional visit support requested by Customer/Supplier
+Additional quantities of spares/material/STTE requested by customer
+Additional training requested by customer.
+Misc costs incurred at trials
+Additional trials support requested (+3)
+Travel Cost Increases
+Unit EMC or Environmental Failure
+Mounting of Ruggedised Converters not possible
+Power Source for Converters
+Signal Losses in Path
+Material estimate is incorrect
+Mass and/or CoG of assembly cannot be maintained.
+Unit requires independant EMC and environmental Testing
+Component Isolation Specification
+Converters contain prohibited materials
+Connectors
+Length of cable run requires fibre conversion
+Modules Obsolescence Resolution - Domestic Programmes
+Power Supply transient problems. To be closed when integration work complete
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Handover to ISS
+Open Architecture Document
+Repeat Testing
+Unallocated Risk
+Software Roll Out
+Engineering Changes
+No Gen 1 products available, transition cost to Gen 2
+complex repair ( over and above the forecast average)
+Spares pool is limited
+System fails to achieve required performance
+Paint issue re-occurring with the different shades
+Supplier do not deliver gasket in timely manner
+Field visits greater than anticipated
+Travel costs increase
+Extra contract payment
+Freight cost increase.
+Early payment milestone payment.
+Working outside of contract
+Operational Performance
+Financial Contingency
+Warranty
+Management Reserve
+Operational Performance
+Dummy Risk For reporting
+Degraded Threat Identification Performance
+Product SW releases not aligned with project
+Inability to deliver all of the parallel activity in the system schedule
+SW development continues beyond HW CDR and/or start of Acceptance
+Test Facilities unavailable
+Sufficient spares are not available at the point of installation
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+Second platform installation overtakes First of Class due to Upkeep overrun
+Combined SRR/SFR leads to late disaggregation of requirements
+platform's configuration has changed since the survey
+First install takes place during a Support Period
+Failure to comply with legal expectations on EMC testing
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+platform Integration estimates are based upon Product Catalogue specification
+ILS Planning
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Opportunity resulting from optimised Portfolio Procurement strategy
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+Customer not providing the information needed or Customer not accepting the Customer documentation resulting in rewor.
+product - Algorithms Acceptance
+Renewal of Licences
+Product System Acceptance lateness
+Factory Acceptance Test/SSAT acceptance criteria is more onerous than expected.
+Sensor input performance
+Extractor risk
+Connector Results In System Failure/Unreliable Performance
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Supplier delivers non-compliant component due to specification misunderstanding
+Video Chain Performance Issues
+Engineering change drives material rework for System items
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire during warranty period.
+Late Deliveries Between internal organisations
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Requirement/Scope Creep
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Information provided to the connector supplier ahead of CDR is immature and leads to redesign
+Assembly Technical Specification release ahead of engineering process
+Fluid corrosion
+Underwater Cable failure during flex testing occurs.
+Unit Assemby does not perform as required
+The Customer supplied carcass causes issues during the vibration testing
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Risk of scrappage to Advance Procured Electronic Components
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Reliability Risk of using 26 gauge wire during warranty period.
+Rejection on new non-compliances (display related) as part of bid.
+Free-issued component is delivered with faults
+Post Transfer modifications are required
+Verification strategy changes post bid leads to cost and schedule impact
+Customer does not provide DNS IP addresses by SFR
+The previously agreed scope from HMI Workshops expands
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+COTS item grounding
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Thermal estimate of the system
+Equipment being delivered prior to full EMC at System level
+Late Deliveries Between internal organisations
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Increased connector load causes crosstalk issues.
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Thermal management can’t dissipate required heat load
+Software resourcing and increased effort to manage software team
+Unexpected design changes
+Schedule Risk Adjustment
+Cooling System Issues
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module characteriSuppliercs
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Product line generic components do not satisfy System qualification standards
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+False alarm rate presented to Operator too high
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Cooling System Issues
+Obsolescence reporting to the end of framework
+System Role Test Equipment Data Module
+product - Algorithms Acceptance
+Renewal of Licences
+More PRs than planned
+Product technical debt requiring project resolution
+Latent Defects
+Non compliance against SSS drives minor design change.
+Capability for each System release does not remain stable
+Inability to deliver all of the parallel activity in the system schedule
+Test Facilities unavailable
+Sub-system fails to meet specification
+Shifting cable supplier from existing supplier
+platform's configuration has changed since the survey
+Failure to comply with legal expectations on EMC testing
+Product Catalogue - Touch Labour
+Product Catalouge - tuning
+MTBF modelling based on theoretical Product data
+Safety Evidence
+Hardware Platform costed option
+Facility Limitations
+Portfolio Dependencies not delivered/honoured
+Widespread use of resources with limited domain experience
+Lack of Industry Suitably Qualified and experienced staff availability
+Assembly solution
+Financial Contingency
+Dummy Risk For reporting
+Warranty
+Management Reserve
+Product System Acceptance lateness
+Factory Acceptance Test/SSAT acceptance criteria is more onerous than expected.
+Sensor input performance
+Extractor risk
+USB development generates unresolvable issues which impact delivery schedule
+Cage required for development
+Platform and equipment required for Factory Acceptance Test
+Technical Solution to not record data
+Paint issue re-occurring with the different shades
+Test equipment not reliable at supplier
+Lack of Analysis
+Additional Material required for investigations
+Line of Balance clear dates does not reconcile with schedule
+Altitude impact
+Thermal impact from Chassis
+Failure of Compliance to Product specification
+Reduction of Qual units
+Failure to meet promised delivery dates
+Test Lab Availability
+Product Hardening
+Change in REACH/RoSH Legislation
+Un-Planned Production Activities
+Range performance does not meet requirement.
+Equipment export licences
+Additional UK integration of the System product
+Unit Production Cost
+Additional Technical documentation updates (Tech Pubs, Mainteinance Manual etc.)
+Ease of build in production
+Supplier Deiivery Schedule
+Task 30 - Pylon Procurement
+Immaturity of the core product
+Product documentation
+Energy Meter untested
+Further edit of Sub-contractor technical publications
+Loss of critical personnel
+Key Resources Uavailable
+If the requirement we have specified isnt achieved, the product becomes unsellable.
+Beam requirement
+Crystal switch
+Material Obsolecence
+Resonating performance
+Export Applications
+Reliability does not meet requirement
+Handover to ISS
+Trials
+Open Architecture Document
+Repeat Testing
+Unallocated Risk
+Software Roll Out
+Procurement/Supply chain and lead time on parts
+Engineering Changes
+Procurement Opportunity - Supplier
+Line Closure Savings
+Production Build / Touch Labour
+Customer Resource availability
+Consoles - Supply to Schedule
+Engineering Change
+Setting to Work spares
+FOC Acceptance
+Supplier supplier has been bought out - Potential loss of access to our stock
+Customer Approval for Customer Furnished Equipmnet Test Equipment
+New wound components do not meet specification at system level as original components
+Head Repairs
+Lack of resource
+New component fails Qualification on Shock/Vibration
+Loss of Key Resources - (Design, Technical Engineering)
+Functional Test set up - missing equipment
+Repair estimates uncertainty
+Increase in material cost
+Without dedicated Datastore hardware, lots of re-work is required
+Sizings assume that at least 1 software engineer on the project has at least 2 years experience
+PO Issued to non-approved supplier
+Programme delays
+Connector Results In System Failure/Unreliable Performance
+Image scaling prevents manual target height estimation to the required accuracy
+Display current measurement fails to identify display segment fault
+Supplier delivers non-compliant component due to specification misunderstanding
+Video Chain Performance Issues
+Engineering change drives material rework for System items
+Colour Representation in Video Image Distortion
+Reliability Risk of using 26 gauge wire during warranty period.
+Late Deliveries Between internal organisations
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Global supply chain issues (sillicon and passive electronic components) drive schedule delays.
+Fluid corrosion
+Requirement/Scope Creep
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Reliability Risk of using 26 gauge wire in assembly (due to fragility in build process).
+Information provided to the connector supplier ahead of CDR is immature and leads to redesign
+Assembly Technical Specification release ahead of engineering process
+Fluid corrosion
+Underwater Cable failure during flex testing occurs.
+Unit Assemby does not perform as required
+The Customer supplied carcass causes issues during the vibration testing
+Mechanical model used for analysis during bid was incorrect
+PCB Design and Verification require more work than currently planned
+Risk of scrappage to Advance Procured Electronic Components
+Customer complains of poor performance
+Component supplier fails to delivery to acceptable quality
+Manufacturing labour estimate is too low
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Delta risk due to acceleration of procurement and parallel procurement caused by new schedule
+Reliability Risk of using 26 gauge wire during warranty period.
+Rejection on new non-compliances (display related) as part of bid.
+Free-issued component is delivered with faults
+Post Transfer modifications are required
+Verification strategy changes post bid leads to cost and schedule impact
+Customer does not provide DNS IP addresses by SFR
+The previously agreed scope from HMI Workshops expands
+Access to critical/limited Manufacturing Resource not available when required for schedule
+Shock Requirement
+COTS item grounding
+Some Test Equipment estimates have come Engineering as opposed to Test Engineering.
+Thermal estimate of the system
+Equipment being delivered prior to full EMC at System level
+Late Deliveries Between internal organisations
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+Thermal estimate of the system
+Increased connector load causes crosstalk issues.
+Increased connector load causes crosstalk issues.
+Importance of Process SubSystem for Prim & Sec Resolvers to be added to Risk Register
+Thermal management can’t dissipate required heat load
+Software resourcing and increased effort to manage software team
+Unexpected design changes
+Schedule Risk Adjustment
+Cooling System Issues
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Technical Specification release  ahead of engineering process
+Supplier delivers non-compliant component due to specification misunderstanding
+Underwater Cable failure during flex testing occurs.
+Fluid weep causes System to fail
+PTFE cables
+SubSystem module characteriSuppliercs
+Fluid weep causes System to fail
+Simulation equipment delivered through IVQ does not replicate real life leading to performance issue
+Transfer of Design Customer for the complete system
+Early life Risk of delay in the event of SubSystem failure during integration.
+Product line generic components do not satisfy System qualification standards
+Unit Assemby does not perform as required
+Design Changes After Release of Material Orders causes scrap or material rework cost and delays.
+Vendors Don't Adhere To Standards: format unexpected issues.
+Build of hardware provides challenges not yet forseen or fully overcome during Derisk Activities
+Early life Risk of delay in the event of SubSystem failure during integration.
+System does not achieve performance
+Change to screen termination on causes integration issues, EMC test (and issues post installation).
+False alarm rate presented to Operator too high
+The subsystem may require a solution involving two or three electronic assemblies rather than one.
+Cooling System Issues
+Competence Centre Level of effort
+Availability of prototype Hardware Dependency on projects
+Engineering support is not available to support Tech Pubs
+Programme extends beyond 50% SRA date
+Operational hours not sufficient
+Shock Requirement
+Receiver System Performance
+Unit EMC or Environmental Failure
+Mounting of Ruggedised Converters not possible
+Power Source for Converters
+Signal Losses in Path
+Material estimate is incorrect
+Mass and/or CoG of assembly cannot be maintained.
+Unit requires independant EMC and environmental Testing
+Component Isolation Specification
+Converters contain prohibited materials
+Connectors
+Length of cable run requires fibre conversion
+Cost Base Savings.
+Risk Savings
+We do not receive the relevant paperwork in order for us to process platformment of production unit...
+If any unit requires opened then there is a risk the connector fails.
+Will customer purchase rechargeable battery and charger
+Fails pressure test. Not due to the addition of the filter.
+Updated Filter Design
+Customer may return/reject units due to workmanplatform issues
+Marching army Customer costs for duration of contract
+Increase of bank fees and other direct costs
+Customer- Training
+Risk of funding requirement
+Failure to meet repair turnaround time
+Increase of Spares UPCs
+Core Management team shared across other programmes
+Reduction in Spares UPC
+Less repairs than planned in base costs
+Supplier  abilities mature exponentially throughout contract requiring less FSE support
+Our being liable for freight costs.
+Supplier request financial support for Training admin.
+Extended working hours during site visits
+Additional visit support requested by Customer/Supplier
+Additional quantities of spares/material/STTE requested by customer
+Additional training requested by customer.
+Misc costs incurred at trials
+Additional trials support requested (+3)
+Travel Cost Increases
+Delayed Config File delivery
+Risk when not working on SW
+EMC Waiver
+Modifications to contributing systems not costed.
+End of tasking
+Unavailability of Network
+Security Encryption Solution
+Hardware CoSupplierng
+System Obsolescence Risk
+Registers Might Be Unstable
+Change In Security Boundary
+Unresolved technical debt (excluding ILS)
+Material / Supply chain delays (generic)
+Tray Obsolsence
+RFIs
+Damage to repair parts
+Supplier Delay
+Sub System Supplier Delay
+Supplier Quality Control Plan
+Supplier component Delay
+Obsolescence (general)
+Customer Witnessing
+Manufacturing (Batching)
+Supplier late deliveries
+Test and Acceptance Review
+Component Free Issue
+Part numbering rejection
+Doc Pack Content
+Failure during integration/PTS
+Licenses (Legacy)
+Doc Pack Contents
+Supplier Delay
+Customer find issues with delivered parts or documentation
+Owned Test Equipment at Customer site
+Items damaged in transit
+sub-System Cleanliness
+Project workload within Systems Engineering
+Open PR's
+Liquidated Damages
+Acceptance overheads (Legacy)
+No Gen 1 products available, transition cost to Gen 2
+complex repair ( over and above the forecast average)
+Spares pool is limited
+System fails to achieve required performance
+Secondary effects appearing while operating
+There is an opportunity to sell the 3rd unit to Sales and Marketing or stock build
+Opportunity to transfer costs from current contract to future stock build
+There is an opportunity to buy back the 2-off delivered units from the customer
+Completion of Build in  year 4 or 5
+Liquidated Damages maybe reduced
+New wound components do not meet specification at system level as original components
+New component fails Qualification on Shock/Vibration
+Increase in material cost
+Functional Test set up - missing equipment
+PO Issued to non-approved supplier
+Hardware availability ???
+Avaliability of correct hospital stock for repair
+Additional Spares and repairs
+Obsolescent Monitoring
+TTE Supplier
+Avaliablity of key resource
+Provide quote for next generation system
+Tooling and Test Equipment
+Working outside of contract
+Thermal Chamber
+Supplier Issues
+Obsolescence of the boards
+Reliability of module
+Material Delivery date
+Increase in material cost
+Resources tight
+Shelf Life of products
+Thermal Chamber
+Extra test equipment
+Supplier Issues
+Obsolescence of the boards
+Trade conpliance issues
+Material Delivery date
+Resources
+Low attrition
+Shelf life products
+Components
+Legacy material
+External cable delivered late
+Chasis Covers
+Positioning error, normal versus specific modes
+Renewing paperwork for Items which are greater than 5 years old
+Power Supply transient problems. To be closed when integration work complete
+Supplier Value for Money
+Warranty
+Management Reserve
+Dependency on Supplier input/collaboration.
+Data Analysis
+Risk that the relationship with the customer breaks down
+SAP
+Customer Furnished Equipmnet - Acceptance Trials Assets
+Customer Furnished Equipmnet Acceptance Assets - Availability
+Verification Data - Systems Integration [Build to Print data]
+There is a risk that trials are hindered due to sub-system problems
+Supplier Mech failure
+Marching army Customer Delay
+Telemetry solution needs additional design effort
+Design Additional effort required
+Machine quote accuracy
+Uncertainty
+Delayed Materials
+Integration - Tracking
+Major Requirement
+Insufficient Description of current research code - Object Classification
+Resource diversion
+Support Period delays
+SW WP EAC reduction/Cost saving
+Integrate HCI
+Availability of HCI
+Acceptance Documentation
+Required Level of SME support not Available
+DVT Duration extension
+Qualification scope
+No float in SW schedule
+SW vulnerability issues
+Equipment qualification failures
+Modules Obsolescence Resolution - Domestic Programmes
+Configuration baseline unstable for Platform
+Lack of Technical Control plan
+Complete SDRL deliverables in Schedule
+Resource creating a single point of failure
+Creation of Serial Number for formal Software Releases
+Change in Delivery Approach 
+Export to customer will not be achieved in Project Timescales
+Timing Change
+Technical Debt: Information for internal ICD is unavailable
+Technical debt - Absence of low level/ functional requirements
+Technical Debt: Scope of obsolescence is bigger than bid estimates
+Long lead time for important components and buy parts
+Critical or Safety PR arises in Final build /Decision Point concludes new release req
+Field visits greater than anticipated
+Travel costs increase
+Extra contract payment
+Freight cost increase.
+Early payment milestone payment.

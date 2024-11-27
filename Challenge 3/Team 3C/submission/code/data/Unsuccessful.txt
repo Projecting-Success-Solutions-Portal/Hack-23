@@ -1,0 +1,38 @@
+Based on the mitigation actions you've listed, it seems that there are several interconnected themes contributing to the project failures. Here's a breakdown:
+
+1. **Lack of Clear Requirements and Communication:**
+   - *Why:* The projects seem to be struggling with unclear or misaligned requirements.
+   - *Mitigation Actions:*
+     - Further conversations with Customer regarding functionality alignment
+     - Pressure manufacturing to commission elevation jig (possibly due to unclear requirements for this component)
+     - Closely manage stakeholders in country and UK to ensure full support
+
+2. **Inadequate Planning and Preparation:**
+   - *Why:* There's a lack of detailed planning, particularly around testing and resource allocation.
+   - *Mitigation Actions:*
+     - Trials planning engagement between Test Facilities and DO
+     - Prior to key Stage of any production conduct Toolbox Talk with engineering...
+     - Portfolio Resource profiling to prioritise resources
+
+3. **Insufficient Collaboration:**
+   - *Why:* There may be silos or lack of coordination between different teams, departments, or stakeholders.
+   - *Mitigation Actions:*
+     - Trials planning engagement... to ensure alignment on expectations
+     - Closely manage stakeholders...
+     - Tiger team area of focus (implies collaboration across teams)
+
+4. **Insufficient Data and Analysis:**
+   - *Why:* There might be a lack of reliable data or insufficient analysis to inform decision-making.
+   - *Mitigation Actions:*
+     - Use model to estimate degradation of accuracy at higher elevations
+     - Modelling
+
+5. **Supplier Management Issues:**
+   - *Why:* Problems with suppliers could be contributing to delays or issues.
+   - *Mitigation Actions:*
+     - Consider what HW definition can be provided to Supplier...
+     - Monitor Supplier spend and release as required
+
+A common theme underlying many of these mitigation actions is the need for clearer communication, more detailed planning, better collaboration, and improved data management. These are all critical aspects of project success that often get overlooked or mishandled in failing projects.
+
+Additionally, there's a suggestion that resource allocation might be an issue (Portfolio Resource profiling), indicating possible capacity constraints or inefficient use of resources.
