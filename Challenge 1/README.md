@@ -67,7 +67,7 @@ and this is made worse by it having to be repeated each time a summary schedule 
 
 A detailed schedule is provided as a .xer file and a .csv file. This schedule is publicly available.
 
-**Success Criteriat​**
+**Success Criteria​**
 
 For this challenge, we want teams to develop a schedule summary tool that can ingest a
 detailed schedule and output a summary of that schedule at different levels while still
