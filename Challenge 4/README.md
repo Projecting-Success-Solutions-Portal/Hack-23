@@ -53,7 +53,7 @@ Teams should ensure that the user always has the right information regarding con
 assumptions. What data can you use to inform your forecast, and how does this effect accuracy and
 reliability?  
 
-**Dataset Description**  ​
+**Dataset Description**  
 Teams will be provided with an example “Footprint” for a demand scenario in Excel as loaded
 into SAP (in its current state, we will take recommendations if changes would support a new
 solution).  
