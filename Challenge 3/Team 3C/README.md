@@ -15,7 +15,7 @@ Dashboard created to present data
 Effectiveness of mitigations asssessed  
 Summary and recommendations  
 
-![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%203/Team%203B/Team%203B%20screengrab.png)
+![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%203/Team%203C/Team%203C%20screengrab.png)
 
 
 **Link to team presentation:**  
