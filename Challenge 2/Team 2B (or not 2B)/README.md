@@ -14,7 +14,7 @@ Feed data to Power BI for visualisation
 Classify lessons, cause and precursors by applying standard categories
 
 
-![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%201/Team%201A%20-%20Conway/Team%201A%20screengrab.png?raw=true)
+![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-23/blob/main/Challenge%202/Team%202B%20(or%20not%202B)/Team%202B%20screengrab.png)?raw=true)
 
 
 **Link to team presentation:**  
