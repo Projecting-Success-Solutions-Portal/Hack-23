@@ -1,12 +1,12 @@
 # Team 1A - Conway
 
 **Team Members**   
-David Mitchell, GSK
-Nicola White, MOD
-Arif Shabbir, MOD
-Akin Olaniyi, MOD
-Jonathan Glover, Clarke Telecom
-Peter Tandlich, GSK
+David Mitchell, GSK  
+Nicola White, MOD  
+Arif Shabbir, MOD  
+Akin Olaniyi, MOD  
+Jonathan Glover, Clarke Telecom  
+Peter Tandlich, GSK  
 
 **Solution Description**
 1. Moved .xer files to P6 to Excel to enable better datasets, as original Excel was missing critical elements
